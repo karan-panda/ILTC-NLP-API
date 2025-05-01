@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sentence-transformers
+torch
+symspellpy
+pydantic
+numpy
+pandas
+scikit-learn
+flask
+flask-cors
+psycopg2-binary
+python-dotenv
+tqdm
+jupyter
+fastapi-cli==0.0.7

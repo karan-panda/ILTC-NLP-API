@@ -1,0 +1,1373 @@
+user_input,user_intent,score
+How do I link my existing health policy?,Add Health Policy,1.0
+I want to purchase a new health plan,Buy Health Insurance,1.0
+Add my corporate health plan to my account,Add Corporate Health Policy,1.0
+Can I buy Elevate coverage online?,Buy Elevate,1.0
+How to register my retail health policy?,Add Retail Health Policy,1.0
+I need to insure my car,Buy Car Insurance,1.0
+Link my travel insurance to my profile,Add Travel Policy,1.0
+I need a health policy,Add Health Policy,0.4
+I want a health policy,Buy Health Insurance,1.0
+Add a car insurance plan,Add Vehicle Policy,0.3
+Add a car insurance plan,Buy Car Insurance,0.7
+I already have Elevate. How do I track it?,Add Health Policy,0.1
+I want to add a policy,Add Policy,1.0
+I want to add a policy,Buy Policy,0.1
+Play a calming sound,Buy Home insurance,0.0
+Give me directions to the airport,Buy Health Insurance,0.0
+Check my internet speed,Buy Travel insurance,0.0
+Suggest a book to read,Buy Bike insurance,0.0
+Remind me to call mom,Buy Car insurance,0.0
+What’s on my calendar today?,Buy Active Booster,0.0
+Find local sports events,Buy MaxProtect,0.0
+I already have Elevate. How do I track it?,Buy Elevate,0.1
+Set up a home insurance policy for my house,Add Home Policy,1.0
+Purchase Active Booster for my family,Buy Active Booster,1.0
+Can I add my bike insurance to the app?,Add Vehicle Policy,1.0
+Buy MaxProtect for my parents,Buy MaxProtect,1.0
+Add my existing travel policy,Add Travel Policy,1.0
+Sign up for Health AdvantEdge,Buy Health AdvantEdge,1.0
+Add my purchased home policy to my account,Add Home Policy,1.0
+Link my existing Elevate policy,Add Health Policy,1.0
+Where can I buy Health AdvantEdge?,Buy Health AdvantEdge,1.0
+Add my old corporate health plan,Add Corporate Health Policy,1.0
+Get me a new travel insurance plan,Buy Travel Insurance,1.0
+How do I connect my retail health policy?,Add Retail Health Policy,1.0
+Purchase Active Booster Combo today,Buy Active Booster Combo,1.0
+Add my motorcycle insurance details,Add Vehicle Policy,1.0
+I need to buy home insurance,Buy Home Insurance,1.0
+Register my pre-owned health policy,Add Health Policy,1.0
+Sign me up for MaxProtect,Buy MaxProtect,1.0
+Add my spouse's health coverage,Add Health Policy,0.9
+Can I buy a car policy online?,Buy Car Insurance,1.0
+Integrate my corporate health plan,Add Corporate Health Policy,0.95
+Looking for cheap bike insurance,Buy Bike Insurance,1.0
+Add my travel insurance from last year,Add Travel Policy,1.0
+Buy a Health AdvantEdge package,Buy Health AdvantEdge,1.0
+Upload my existing home policy,Add Home Policy,1.0
+I want to purchase Elevate,Buy Elevate,1.0
+Attach my retail health plan,Add Retail Health Policy,1.0
+Need Active Booster for gym,Buy Active Booster,1.0
+Add my vintage car insurance,Add Vehicle Policy,1.0
+Buy a policy for my new house,Buy Home Insurance,1.0
+I need to add a corporate health policy,Add Corporate Health Policy,1.0
+Register a health policy for my company,Add Corporate Health Policy,1.0
+Please add corporate health insurance,Add Corporate Health Policy,1.0
+I want to add a policy,Face Scan,0.1
+I want to add a policy,Buy Bike insurance,0.1
+Please add a new policy for me,Track Health,0.1
+Help me register a policy,Buy Travel insurance,0.1
+Start a policy application,Driving Licence,0.1
+I want to buy Elevate insurance,Buy Elevate,1.0
+Remind me about my meeting,Add Health Policy,0.0
+Turn off the lights,Add Health Policy,0.0
+Play a calming sound,Buy Health Insurance,0.0
+Check my internet speed,Buy Health Insurance,0.0
+Suggest a book to read,Buy Elevate,0.0
+Remind me to call mom,Buy Elevate,0.0
+I need to initiate a policy,Motor self inspection,0.1
+Can you help me add a policy?,IL DriveSmart,0.1
+Process a new policy for my account,ABHA Id,0.1
+I would like to add an insurance policy,View Travel Policies,0.1
+Register a new policy for me,Steps,0.1
+Check my policy status,Buy Car insurance,0.1
+Download my insurance documents,Buy MaxProtect,0.1
+Renew my expired policy,Buy Active Booster,0.1
+Connect my old health plan,Add Health Policy,0.9
+Order MaxProtect for my team,Buy MaxProtect,1.0
+Add my company’s health policy,Add Corporate Health Policy,1.0
+Get bike insurance quotes,Buy Bike Insurance,1.0
+Add last year’s travel policy,Add Travel Policy,1.0
+Buy Health AdvantEdge for family,Buy Health AdvantEdge,1.0
+Register my inherited home policy,Add Home Policy,1.0
+Where to buy Elevate?,Buy Elevate,1.0
+Sync my retail health coverage,Add Retail Health Policy,0.9
+Purchase Active Booster Combo now,Buy Active Booster Combo,1.0
+Add my scooter insurance,Add Vehicle Policy,1.0
+Buy home insurance ASAP,Buy Home Insurance,1.0
+Attach my old health plan,Add Health Policy,0.9
+Buy MaxProtect for my kids,Buy MaxProtect,1.0
+Add our corporate health plan,Add Corporate Health Policy,1.0
+Looking for bike insurance deals,Buy Bike Insurance,1.0
+Add my expired travel policy,Add Travel Policy,0.8
+Buy Health AdvantEdge today,Buy Health AdvantEdge,1.0
+Upload my home policy PDF,Add Home Policy,1.0
+Can I purchase Elevate?,Buy Elevate,1.0
+Integrate my retail health plan,Add Retail Health Policy,0.9
+Need Active Booster for yoga,Buy Active Booster,1.0
+Add my truck insurance,Add Vehicle Policy,1.0
+Buy new home insurance,Buy Home Insurance,1.0
+Link my family health policy,Add Health Policy,0.9
+Buy MaxProtect for parents,Buy MaxProtect,1.0
+Start a corporate health policy process,Add Corporate Health Policy,1.0
+I want to add a retail health policy,Add Retail Health Policy,1.0
+Help me register a personal health policy,Add Retail Health Policy,1.0
+Add my retail health insurance policy,Add Retail Health Policy,1.0
+Purchase health insurance plan,Buy Health Insurance,1.0
+Help me buy a health insurance policy,Buy Health Insurance,1.0
+Looking to purchase health insurance,Buy Health Insurance,1.0
+What’s on my calendar today?,Buy Elevate,0.0
+Initiate a retail health policy application,Add Retail Health Policy,1.0
+I need to add a vehicle insurance policy,Add Vehicle Policy,1.0
+Register a new vehicle policy,Add Vehicle Policy,1.0
+Get details on the policy loan facility in my life insurance policy,Buy MaxProtect,0.1
+Find out about the policy surrender process in my life insurance policy,Buy Active Booster Combo,0.1
+Check if my life insurance policy has a free-look period,Buy Health AdvantEdge,0.1
+Find out about the policy nomination process in my life insurance policy,View Health Quotient,0.1
+I want to add a policy,View Challans,0.0
+Please add a new policy for me,Add Policy,1.0
+Help me register a policy,Add Policy,1.0
+Start a policy application,Add Policy,1.0
+I need to initiate a policy,Add Policy,1.0
+Recommend a new hobby,View Vehicle Policies,0.0
+How do I start a podcast?,View Travel Policies,0.0
+Suggest a Netflix series to watch,View Travel Policies,0.0
+How do I bake a chocolate cake?,View Travel Policies,0.0
+Give me a random number,View Home Policies,0.0
+Add our company health plan,Add Corporate Health Policy,1.0
+Get cheap bike insurance,Buy Bike Insurance,1.0
+Add my past travel insurance,Add Travel Policy,0.8
+Buy Health AdvantEdge now,Buy Health AdvantEdge,1.0
+Attach my home policy document,Add Home Policy,1.0
+Purchase Elevate coverage,Buy Elevate,1.0
+Sync my retail health policy,Add Retail Health Policy,0.9
+Order Active Booster Combo,Buy Active Booster Combo,1.0
+Add my RV insurance,Add Vehicle Policy,1.0
+Buy home insurance today,Buy Home Insurance,1.0
+Register my old health plan,Add Health Policy,0.9
+Buy MaxProtect for spouse,Buy MaxProtect,1.0
+Add corporate health coverage,Add Corporate Health Policy,1.0
+Find bike insurance options,Buy Bike Insurance,1.0
+Add my previous travel policy,Add Travel Policy,0.8
+Buy Health AdvantEdge online,Buy Health AdvantEdge,1.0
+Upload home policy details,Add Home Policy,1.0
+Where to purchase Elevate?,Buy Elevate,1.0
+Link retail health plan,Add Retail Health Policy,0.9
+Get Active Booster today,Buy Active Booster,1.0
+Add my ATV insurance,Add Vehicle Policy,1.0
+Buy a new home policy,Buy Home Insurance,1.0
+Attach my health plan,Add Health Policy,0.8
+Buy MaxProtect for family,Buy MaxProtect,1.0
+Add our corporate policy,Add Corporate Health Policy,1.0
+Need bike insurance now,Buy Bike Insurance,1.0
+Add my old travel policy,Add Travel Policy,0.8
+Buy Health AdvantEdge package,Buy Health AdvantEdge,1.0
+Register home insurance,Add Home Policy,0.7
+Purchase Elevate now,Buy Elevate,1.0
+Sync retail health policy,Add Retail Health Policy,0.9
+Buy Active Booster Combo,Buy Active Booster Combo,1.0
+Add my boat insurance,Add Vehicle Policy,1.0
+Get home insurance quotes,Buy Home Insurance,1.0
+Link my health coverage,Add Health Policy,0.8
+Buy MaxProtect today,Buy MaxProtect,1.0
+Add corporate plan,Add Corporate Health Policy,0.9
+Best bike insurance?,Buy Bike Insurance,0.8
+Add past travel policy,Add Travel Policy,0.7
+Buy Health AdvantEdge,Buy Health AdvantEdge,1.0
+Upload my home policy,Add Home Policy,0.9
+Order Elevate coverage,Buy Elevate,1.0
+Retail health plan setup,Add Retail Health Policy,0.7
+Need Active Booster,Buy Active Booster,1.0
+Add my trailer insurance,Add Vehicle Policy,1.0
+Add my snowmobile insurance,Add Vehicle Policy,1.0
+New home insurance,Buy Home Insurance,0.9
+I want to add health policy and buy new health elevate policy,Add Health Policy,1.0
+I want to add health policy and buy new health elevate policy,Buy Elevate,1.0
+Add my corporate policy and purchase MaxProtect,Add Corporate Health Policy,1.0
+Add my corporate policy and purchase MaxProtect,Buy MaxProtect,1.0
+Link my retail health plan and buy Active Booster,Add Retail Health Policy,1.0
+Link my retail health plan and buy Active Booster,Buy Active Booster,1.0
+Register my vehicle policy and get new car insurance,Add Vehicle Policy,1.0
+Register my vehicle policy and get new car insurance,Buy Car Insurance,1.0
+Upload my home policy and buy Health AdvantEdge,Add Home Policy,1.0
+Upload my home policy and buy Health AdvantEdge,Buy Health AdvantEdge,1.0
+Integrate my travel policy and purchase travel insurance,Add Travel Policy,1.0
+Integrate my travel policy and purchase travel insurance,Buy Travel Insurance,1.0
+Add existing health coverage and buy Elevate,Add Health Policy,1.0
+Add existing health coverage and buy Elevate,Buy Elevate,1.0
+Add retail policy and buy Active Booster,Buy Active Booster,1.0
+Upload vehicle policy and insure my new car,Add Vehicle Policy,1.0
+Upload vehicle policy and insure my new car,Buy Car Insurance,1.0
+Attach home insurance and buy Health AdvantEdge,Add Home Policy,1.0
+Attach home insurance and buy Health AdvantEdge,Buy Health AdvantEdge,1.0
+Sync travel policy and purchase travel coverage,Add Travel Policy,1.0
+Sync travel policy and purchase travel coverage,Buy Travel Insurance,1.0
+Add my health plan and get Elevate,Add Health Policy,1.0
+Add my health plan and get Elevate,Buy Elevate,1.0
+Link corporate coverage and buy MaxProtect,Add Corporate Health Policy,1.0
+Link corporate coverage and buy MaxProtect,Buy MaxProtect,1.0
+Register retail policy and order Active Booster Combo,Add Retail Health Policy,1.0
+Register retail policy and order Active Booster Combo,Buy Active Booster Combo,1.0
+Integrate bike insurance and purchase car policy,Add Vehicle Policy,1.0
+Integrate bike insurance and purchase car policy,Buy Car Insurance,1.0
+Add home policy and buy Health AdvantEdge,Add Home Policy,1.0
+Add home policy and buy Health AdvantEdge,Buy Health AdvantEdge,1.0
+Attach travel insurance and buy new travel plan,Add Travel Policy,1.0
+Attach travel insurance and buy new travel plan,Buy Travel Insurance,1.0
+Upload health policy and purchase Elevate,Add Health Policy,1.0
+Upload health policy and purchase Elevate,Buy Elevate,1.0
+Sync corporate plan and buy MaxProtect,Add Corporate Health Policy,1.0
+Sync corporate plan and buy MaxProtect,Buy MaxProtect,1.0
+Link retail policy and get Active Booster,Add Retail Health Policy,1.0
+Link retail policy and get Active Booster,Buy Active Booster,1.0
+Add vehicle insurance and buy bike coverage,Add Vehicle Policy,1.0
+Add vehicle insurance and buy bike coverage,Buy Bike Insurance,1.0
+Register home policy and purchase Health AdvantEdge,Add Home Policy,1.0
+Register home policy and purchase Health AdvantEdge,Buy Health AdvantEdge,1.0
+Integrate travel policy and buy travel insurance,Add Travel Policy,1.0
+Integrate travel policy and buy travel insurance,Buy Travel Insurance,1.0
+Attach health plan and order Elevate,Add Health Policy,1.0
+Attach health plan and order Elevate,Buy Elevate,1.0
+Add corporate policy and buy MaxProtect,Add Corporate Health Policy,1.0
+Add corporate policy and buy MaxProtect,Buy MaxProtect,1.0
+Sync retail health plan and purchase Active Booster,Add Retail Health Policy,1.0
+Sync retail health plan and purchase Active Booster,Buy Active Booster,1.0
+Link vehicle policy and insure my new bike,Add Vehicle Policy,1.0
+Link vehicle policy and insure my new bike,Buy Bike Insurance,1.0
+Upload home insurance and get Health AdvantEdge,Add Home Policy,1.0
+Upload home insurance and get Health AdvantEdge,Buy Health AdvantEdge,1.0
+Add travel policy and buy new travel coverage,Add Travel Policy,1.0
+Add travel policy and buy new travel coverage,Buy Travel Insurance,1.0
+Register health plan and purchase Elevate,Add Health Policy,1.0
+Connect corporate health plan and order MaxProtect,Add Corporate Health Policy,1.0
+Connect corporate health plan and order MaxProtect,Buy MaxProtect,1.0
+Sync retail policy and sign up for Active Booster Combo,Add Retail Health Policy,1.0
+Sync retail policy and sign up for Active Booster Combo,Buy Active Booster Combo,1.0
+Attach vehicle insurance and buy bike coverage,Add Vehicle Policy,1.0
+Attach vehicle insurance and buy bike coverage,Buy Bike Insurance,1.0
+Add home policy document and purchase Health AdvantEdge,Add Home Policy,1.0
+Add home policy document and purchase Health AdvantEdge,Buy Health AdvantEdge,1.0
+Link old travel policy and get new travel insurance,Add Travel Policy,1.0
+Link old travel policy and get new travel insurance,Buy Travel Insurance,1.0
+Register health plan and buy Elevate package,Add Health Policy,1.0
+Register health plan and buy Elevate package,Buy Elevate,1.0
+Integrate corporate plan and purchase MaxProtect,Add Corporate Health Policy,1.0
+Integrate corporate plan and purchase MaxProtect,Buy MaxProtect,1.0
+Add retail policy and buy Active Booster,Add Retail Health Policy,1.0
+Buy home coverage,Buy Home Insurance,0.9
+Existing health plan help,Add Health Policy,0.6
+MaxProtect pricing,Buy MaxProtect,0.8
+Corporate policy integration,Add Corporate Health Policy,0.7
+Bike insurance options,Buy Bike Insurance,0.8
+Old travel policy help,Add Travel Policy,0.6
+Health AdvantEdge cost,Buy Health AdvantEdge,0.8
+Home policy upload,Add Home Policy,0.7
+Elevate purchase,Buy Elevate,1.0
+Retail health link,Add Retail Health Policy,0.6
+Active Booster signup,Buy Active Booster,1.0
+What is the capital of France?,Add Policy,0.0
+Solve this math equation: 2+2,Add Health Policy,0.0
+Help me add car insurance policy,Add Vehicle Policy,1.0
+Initiate a vehicle policy for my car,Add Vehicle Policy,1.0
+Purchase Elevate plan,Buy Elevate,1.0
+Help me buy the Elevate package,Buy Elevate,1.0
+Looking to get Elevate insurance,Buy Elevate,1.0
+I want to buy MaxProtect insurance,Buy MaxProtect,1.0
+Purchase MaxProtect plan,Buy MaxProtect,1.0
+Help me buy the MaxProtect package,Buy MaxProtect,1.0
+Looking to get MaxProtect coverage,Buy MaxProtect,1.0
+I want to buy travel insurance,Buy Travel insurance,1.0
+Purchase a travel insurance policy,Buy Travel insurance,1.0
+Help me get travel insurance,Buy Travel insurance,1.0
+Looking for travel insurance options,Buy Travel insurance,1.0
+I need some FAQs,FAQs,1.0
+Show me the FAQs,FAQs,1.0
+Frequently asked questions,FAQs,1.0
+Help me with FAQs,FAQs,1.0
+I want to view my health policies,View Health Policies,1.0
+Show my health policies,View Health Policies,1.0
+Display health insurance policies,View Health Policies,1.0
+List all my health policies,View Health Policies,1.0
+I want to manage my documents,Manage Documents,1.0
+Help me manage documents,Manage Documents,1.0
+Document management,Manage Documents,1.0
+Access document management,Manage Documents,1.0
+I want to view my challans,View Challans,1.0
+Show me my challans,View Challans,1.0
+What’s my daily horoscope?,Buy Bike insurance,0.0
+When is my next dentist appointment?,Buy Bike insurance,0.0
+How do I cook pasta?,Buy Bike insurance,0.0
+Turn off my alarm,Buy Travel insurance,0.0
+Register health plan and purchase Elevate,Buy Elevate,1.0
+Integrate corporate health policy and buy MaxProtect,Add Corporate Health Policy,1.0
+Integrate corporate health policy and buy MaxProtect,Buy MaxProtect,1.0
+Attach retail policy and order Active Booster Combo,Add Retail Health Policy,1.0
+Attach retail policy and order Active Booster Combo,Buy Active Booster Combo,1.0
+Add vehicle insurance and buy car policy,Add Vehicle Policy,1.0
+Add vehicle insurance and buy car policy,Buy Car Insurance,1.0
+Link home policy and purchase Health AdvantEdge,Add Home Policy,1.0
+Link home policy and purchase Health AdvantEdge,Buy Health AdvantEdge,1.0
+How do I link my old health plan?,Add Health Policy,1.0
+Need insurance for my car,Buy Car Insurance,0.9
+Insurance for my trip,Buy Travel Insurance,0.8
+Add health policy,Add Health Policy,1.0
+Add health policy,Buy Health Insurance,0.3
+Something for my bike,Add Vehicle Policy,0.2
+Something for my bike,Buy Bike Insurance,0.7
+Corporate policy help,Add Corporate Health Policy,0.6
+Corporate policy help,Buy Health Insurance,0.2
+Best policy for home,Add Home Policy,0.4
+Best policy for home,Buy Home Insurance,0.8
+Travel coverage needed,Add Travel Policy,0.3
+Travel coverage needed,Buy Travel Insurance,0.9
+Add and buy health stuff,Add Health Policy,0.7
+What’s the best exercise for abs?,Buy Travel insurance,0.0
+Find a nearby gas station,Buy Travel insurance,0.0
+Can you make a to-do list for me?,Buy Home insurance,0.0
+Write me a poem,Buy Home insurance,0.0
+Help me with my homework,Buy Home insurance,0.0
+Take a picture using my camera,Face Scan,0.0
+Post this on social media,Face Scan,0.0
+Start my car remotely,Face Scan,0.0
+What is my battery percentage?,driving score,0.0
+What’s the best smartphone right now?,driving score,0.0
+How do I set up a new WiFi router?,driving score,0.0
+Who is the president of the USA?,blogs,0.0
+What are the benefits of meditation?,blogs,0.0
+Tell me a fun fact,blogs,0.0
+How do I make an origami crane?,View Health Policies,0.0
+Show me my best vacation photos,View Health Policies,0.0
+I want to add a policy,FAQs,0.0
+I want to add a policy,Face Scan,0.0
+Find out about the policy revival process in my life insurance policy,Buy Car insurance,0.1
+Can you help me add a policy?,Add Policy,1.0
+List the planets in our solar system,View Home Policies,0.0
+Show me a live stream of space,View Home Policies,0.0
+Define quantum mechanics,FAQs,0.0
+I want to add a health policy,Add Health Policy,1.0
+Find my lost phone,IL DriveSmart,0.0
+Can you identify this bird?,Motor self inspection,0.0
+When is my friend’s birthday?,View Health Policies,0.0
+What’s the meaning of life?,FAQs,0.0
+Tell me about ancient civilizations,FAQs,0.0
+What’s the latest fashion trend?,Manage Documents,0.0
+Show me my stock investments,Manage Documents,0.0
+How do I play chess?,Manage Documents,0.0
+Sing me a lullaby,Steps,0.0
+How do I paint a landscape?,Steps,0.0
+Can you solve a Rubik’s Cube?,Steps,0.0
+Add and buy health stuff,Buy Health Insurance,0.7
+Health AdvantEdge cost,Add Health Policy,0.2
+Active Booster details,Buy Active Booster,0.6
+Active Booster details,Add Retail Health Policy,0.1
+Existing policy upload,Add Health Policy,0.5
+Existing policy upload,Buy Health Insurance,0.1
+New Elevate plan,Buy Elevate,0.9
+New Elevate plan,Add Health Policy,0.3
+MaxProtect for family,Buy MaxProtect,1.0
+MaxProtect for family,Add Corporate Health Policy,0.4
+Retail health options,Add Retail Health Policy,0.7
+Retail health options,Buy Active Booster Combo,0.2
+Vehicle policy registration,Add Vehicle Policy,1.0
+Vehicle policy registration,Buy Car Insurance,0.4
+Home insurance docs,Add Home Policy,0.8
+Home insurance docs,Buy Home Insurance,0.6
+Travel policy query,Add Travel Policy,0.5
+Travel policy query,Buy Travel Insurance,0.5
+Add my bike insurance,Add Vehicle Policy,1.0
+Add my bike insurance,Buy Bike Insurance,0.4
+Buy corporate plan,Add Corporate Health Policy,0.3
+Buy corporate plan,Buy Health Insurance,0.6
+Register old health plan,Add Health Policy,0.9
+Register old health plan,Buy Elevate,0.2
+Compare Health AdvantEdge,Buy Health AdvantEdge,0.7
+Compare Health AdvantEdge,Add Health Policy,0.1
+Active Booster pricing,Buy Active Booster,0.8
+I want to add a policy,View Challans,0.1
+I want to add a policy,Buy Bike insurance,0.0
+Display motor challans,View Challans,1.0
+I want to add a travel insurance policy,Add Travel Policy,1.0
+Please register a travel policy,Add Travel Policy,1.0
+Help me add travel coverage,Add Travel Policy,1.0
+What is my PUC validity?,PUC Validity,1.0
+Show PUC validity details,PUC Validity,1.0
+Need PUC validity info,PUC Validity,1.0
+Can I buy a car through this service?,Buy Policy,0.2
+I need health advice,Buy Health Insurance,0.3
+How do I renew my car insurance?,Renew Policy,1.0
+I want to claim my insurance,Claim Policy,1.0
+Help me process an insurance claim,Claim Policy,1.0
+I want to cancel my insurance policy,Cancel Policy,1.0
+Cancel my current health insurance,Cancel Health Policy,1.0
+I need travel assistance,Buy Travel insurance,0.4
+What happens if I lose my policy document?,Manage Documents,0.8
+Can I pay my premium online?,Premium Payment,1.0
+Show me my payment history,View Payment History,1.0
+Where can I check my past transactions?,View Payment History,1.0
+How do I update my personal details?,My Profile,1.0
+Update my registered phone number,My Profile,1.0
+Change my home address in my account,My Profile,1.0
+Active Booster pricing,Add Retail Health Policy,0.1
+Link my car policy,Add Vehicle Policy,1.0
+Link my car policy,Buy Car Insurance,0.3
+Home policy assistance,Add Home Policy,0.6
+Home policy assistance,Buy Home Insurance,0.4
+Travel insurance FAQ,Buy Travel Insurance,0.5
+Travel insurance FAQ,Add Travel Policy,0.3
+Add Elevate to my account,Add Health Policy,0.4
+Add Elevate to my account,Buy Elevate,0.8
+MaxProtect renewal,Buy MaxProtect,0.7
+MaxProtect renewal,Add Corporate Health Policy,0.2
+Retail policy setup,Add Retail Health Policy,0.9
+Retail policy setup,Buy Active Booster,0.3
+Vehicle insurance help,Add Vehicle Policy,0.7
+Vehicle insurance help,Buy Car Insurance,0.6
+Upload home policy,Add Home Policy,1.0
+Upload home policy,Buy Home Insurance,0.2
+Travel plan options,Add Travel Policy,0.4
+Travel plan options,Buy Travel Insurance,0.8
+Health policy info,Add Health Policy,0.5
+Health policy info,Buy Health Insurance,0.5
+Corporate coverage query,Add Corporate Health Policy,0.6
+Corporate coverage query,Buy MaxProtect,0.4
+Active Booster Combo,Buy Active Booster Combo,1.0
+Active Booster Combo,Add Retail Health Policy,0.3
+Process a new policy for my account,Add Policy,1.0
+I would like to add an insurance policy,Add Policy,1.0
+Register a new policy for me,Add Policy,1.0
+Initiate a travel insurance policy,Add Travel Policy,1.0
+I want to add a home insurance policy,Add Home Policy,1.0
+Register a home policy for me,Add Home Policy,1.0
+Help me add home coverage,Add Home Policy,1.0
+Initiate home insurance policy,Add Home Policy,1.0
+I want to buy insurance,Buy Policy,1.0
+List my challans,View Challans,1.0
+Book a flight ticket,Add Corporate Health Policy,0.0
+I want to do a face scan,Face Scan,1.0
+Scan my face,Face Scan,1.0
+How to perform a face scan,Face Scan,1.0
+Initiate a face scan process,Face Scan,1.0
+Check my PUC validity,PUC Validity,1.0
+Solve this math equation: 2+2,Add Policy,0.0
+Tell me a joke,Add Policy,0.0
+Find me the best restaurant nearby,Add Corporate Health Policy,0.0
+Translate this sentence to Spanish,Add Corporate Health Policy,0.0
+Tell me about black holes,Add Retail Health Policy,0.0
+When was the Eiffel Tower built?,Add Retail Health Policy,0.0
+Give me a summary of World War II,Add Retail Health Policy,0.0
+Set a timer for 5 minutes,Add Vehicle Policy,0.0
+Start a workout session,Add Vehicle Policy,0.0
+What’s the latest stock market update?,Add Vehicle Policy,0.0
+Send an email to my boss,Add Travel Policy,0.0
+Create a PowerPoint presentation,Add Travel Policy,0.0
+Where is the nearest hospital?,Add Travel Policy,0.0
+Show me my flight itinerary,Add Home Policy,0.0
+Find my lost phone,Add Home Policy,0.0
+Can you identify this bird?,Add Home Policy,0.0
+I need my driving licence,Driving Licence,1.0
+Show my driving licence,Driving Licence,1.0
+Access driving licence details,Driving Licence,1.0
+Where is my driving licence?,Driving Licence,1.0
+Play my favorite song,Add Policy,0.0
+What's the weather like today?,Add Policy,0.0
+Show me my grocery list,Add Health Policy,0.0
+Purchase an insurance plan,Buy Policy,1.0
+Help me buy an insurance policy,Buy Policy,1.0
+Looking to purchase insurance,Buy Policy,1.0
+I want to buy health insurance,Buy Health Insurance,1.0
+Create a shopping list,Buy MaxProtect,0.0
+Track my daily steps,Buy MaxProtect,0.0
+Where can I watch a movie tonight?,Buy Active Booster Combo,0.0
+What’s the latest news?,Buy Active Booster Combo,0.0
+Tell me a bedtime story,Buy Active Booster Combo,0.0
+Order food from a restaurant,Buy Active Booster,0.0
+Schedule a doctor’s appointment,Buy Active Booster,0.0
+Check my horoscope,Buy Active Booster,0.0
+Who won the football match yesterday?,Buy Health AdvantEdge,0.0
+How do I tie a tie?,Buy Health AdvantEdge,0.0
+Show me a DIY home project,Buy Health AdvantEdge,0.0
+Teach me how to dance,Buy Car insurance,0.0
+Can you fix my WiFi?,Buy Car insurance,0.0
+Play a trivia game,Buy Car insurance,0.0
+What’s a good name for my pet?,View Vehicle Policies,0.0
+How can I improve my handwriting?,View Vehicle Policies,0.0
+Tell me a joke,Add Corporate Health Policy,0.0
+Play my favorite song,Add Retail Health Policy,0.0
+What's the weather like today?,Add Vehicle Policy,0.0
+Show me my grocery list,Buy Car insurance,0.0
+Remind me about my meeting,Buy MaxProtect,0.0
+Bike insurance link,Add Vehicle Policy,0.5
+Bike insurance link,Buy Bike Insurance,0.7
+New home policy,Add Home Policy,0.7
+New home policy,Buy Home Insurance,0.9
+Travel policy support,Add Travel Policy,0.8
+Travel policy support,Buy Travel Insurance,0.6
+Elevate benefits,Buy Elevate,0.8
+Elevate benefits,Add Health Policy,0.2
+MaxProtect details,Buy MaxProtect,0.9
+MaxProtect details,Add Corporate Health Policy,0.3
+Retail health plan,Add Retail Health Policy,1.0
+Retail health plan,Buy Active Booster,0.4
+Vehicle policy update,Add Vehicle Policy,0.7
+Vehicle policy update,Buy Car Insurance,0.3
+Home insurance query,Add Home Policy,0.4
+Home insurance query,Buy Home Insurance,0.8
+Add travel docs,Add Travel Policy,0.6
+Add travel docs,Buy Travel Insurance,0.3
+Health plan comparison,Add Health Policy,0.3
+Health plan comparison,Buy Health Insurance,0.7
+Corporate policy setup,Add Corporate Health Policy,1.0
+Corporate policy setup,Buy MaxProtect,0.5
+Active Booster FAQ,Buy Active Booster,0.5
+Active Booster FAQ,Add Retail Health Policy,0.1
+Bike insurance help,Add Vehicle Policy,0.4
+Bike insurance help,Buy Bike Insurance,0.9
+Home policy renewal,Add Home Policy,0.6
+Home policy renewal,Buy Home Insurance,0.7
+Travel coverage info,Add Travel Policy,0.5
+Travel coverage info,Buy Travel Insurance,0.7
+Elevate registration,Buy Elevate,1.0
+Elevate registration,Add Health Policy,0.3
+MaxProtect for employees,Buy MaxProtect,0.8
+MaxProtect for employees,Add Corporate Health Policy,0.7
+Retail health assistance,Add Retail Health Policy,0.8
+Retail health assistance,Buy Active Booster Combo,0.3
+Vehicle policy terms,Add Vehicle Policy,0.6
+Vehicle policy terms,Buy Car Insurance,0.4
+Home insurance link,Add Home Policy,0.9
+Turn off the lights,Buy Active Booster,0.0
+Book a flight ticket,Buy Elevate,0.0
+Find me the best restaurant nearby,Buy Active Booster Combo,0.0
+Translate this sentence to Spanish,Buy Health AdvantEdge,0.0
+Tell me about black holes,Buy Health Insurance,0.0
+When was the Eiffel Tower built?,View Home Policies,0.0
+Give me a summary of World War II,View Vehicle Policies,0.0
+Set a timer for 5 minutes,View Travel Policies,0.0
+Start a workout session,Manage Documents,0.0
+What’s the latest stock market update?,FAQs,0.0
+Send an email to my boss,Blogs,0.0
+Create a PowerPoint presentation,Driving Score,0.0
+Where is the nearest hospital?,Health Records,0.0
+Show me my flight itinerary,PUC Validity,0.0
+Where can I watch a movie tonight?,Buy Home insurance,0.0
+Show me a DIY home project,Driving Licence,0.0
+Teach me how to dance,View Challans,0.0
+Can you fix my WiFi?,PUC Validity,0.0
+Play a trivia game,IL DriveSmart,0.0
+What’s my daily horoscope?,Motor self inspection,0.0
+When is my next dentist appointment?,Face Scan,0.0
+How do I cook pasta?,Buy Active Booster,0.0
+What’s the best exercise for abs?,Buy Health AdvantEdge,0.0
+Find a nearby gas station,View Health Quotient,0.0
+Can you make a to-do list for me?,Buy Elevate,0.0
+Help me with my homework,View Travel Policies,0.0
+How can I improve my handwriting?,View Challans,0.0
+Recommend a new hobby,Track Health,0.0
+How do I start a podcast?,Driving Licence,0.0
+Suggest a Netflix series to watch,Motor self inspection,0.0
+How do I bake a chocolate cake?,PUC Validity,0.0
+Give me a random number,IL DriveSmart,0.0
+Find out about premium waiver benefits in term insurance,Motor self inspection,0.1
+Check if my term insurance covers critical illnesses,Face Scan,0.1
+Get details on the surrender value of my life insurance policy,Buy Active Booster,0.1
+Find out about the loan facility in my life insurance policy,Buy Elevate,0.1
+Check if my life insurance policy has a maturity benefit,Buy Home insurance,0.1
+Schedule a doctor’s appointment,Steps,0.0
+Check my horoscope,Health Records,0.0
+Who won the football match yesterday?,Track Health,0.0
+How do I tie a tie?,ABHA Id,0.0
+List the planets in our solar system,Face Scan,0.0
+Show me a live stream of space,ABHA Id,0.0
+Define quantum mechanics,Health Records,0.0
+What’s the latest fashion trend?,Steps,0.0
+How do I play chess?,View Health Quotient,0.0
+Sing me a lullaby,View Challans,0.0
+How do I paint a landscape?,Track Health,0.0
+Can you solve a Rubik’s Cube?,Driving Licence,0.0
+I want to add a policy,FAQs,0.1
+Find details about my coverage,Buy Elevate,0.1
+Claim my insurance,Buy Active Booster Combo,0.1
+Submit my claim request,Buy Health AdvantEdge,0.1
+Check my policy validity,Buy Health Insurance,0.1
+Track my claim status,View Home Policies,0.1
+What are the claim steps?,View Vehicle Policies,0.1
+List policies under my name,View Travel Policies,0.1
+Find nearest network hospitals,Manage Documents,0.1
+Download my health insurance card,FAQs,0.1
+How do I port my insurance policy?,Blogs,0.1
+Show my premium payment history,Driving Score,0.1
+Check tax benefits of my policy,Health Records,0.1
+Find the IDV of my vehicle policy,PUC Validity,0.1
+Update my personal details in policy,IL DriveSmart,0.1
+How do I cancel my policy?,Motor self inspection,0.1
+Check my sum insured amount,Buy Home insurance,0.1
+Get details on co-payment clauses,Buy Health Insurance,0.1
+What is No Claim Bonus (NCB)?,Buy Travel insurance,0.1
+Take a picture using my camera,Buy Health Insurance,0.0
+Post this on social media,Manage Documents,0.0
+Start my car remotely,Driving Score,0.0
+What is my battery percentage?,Blogs,0.0
+What’s the best smartphone right now?,FAQs,0.0
+How do I set up a new WiFi router?,View Home Policies,0.0
+Who is the president of the USA?,Buy Car insurance,0.0
+What are the benefits of meditation?,Buy Bike insurance,0.0
+Tell me a fun fact,Buy MaxProtect,0.0
+How do I make an origami crane?,Buy Active Booster Combo,0.0
+Show me my best vacation photos,Buy Health AdvantEdge,0.0
+When is my friend’s birthday?,Buy Travel insurance,0.0
+What’s a good name for my pet?,View Health Quotient,0.0
+Can I transfer my NCB?,Buy Bike insurance,0.1
+Check if my policy covers OPD expenses,Buy Car insurance,0.1
+View my dependent’s insurance details,Buy Active Booster,0.1
+Generate a new policy quote,Buy MaxProtect,0.1
+Compare different insurance plans,Buy Active Booster Combo,0.1
+Know about cashless claim process,Buy Elevate,0.1
+Find hospitals with cashless facility,Buy Home insurance,0.1
+What is the waiting period in my policy?,View Vehicle Policies,0.1
+How do I check pre-existing disease coverage?,View Travel Policies,0.1
+View terms and conditions of my policy,View Home Policies,0.1
+How can I update my nominee details?,Steps,0.1
+Add a nominee to my insurance plan,Health Records,0.1
+Can I increase my sum insured?,Track Health,0.1
+What happens if I miss my premium payment?,ABHA Id,0.1
+Can I convert my policy into a paid-up policy?,Driving Licence,0.1
+Find out my vehicle’s insurance expiry date,View Challans,0.1
+Check if my insurance policy is active,PUC Validity,0.1
+Download my car insurance policy copy,IL DriveSmart,0.1
+Home insurance link,Buy Home Insurance,0.5
+Travel policy details,Add Travel Policy,0.7
+Travel policy details,Buy Travel Insurance,0.6
+Health plan upload,Add Health Policy,1.0
+Health plan upload,Buy Health Insurance,0.2
+Corporate health query,Add Corporate Health Policy,0.7
+Corporate health query,Buy MaxProtect,0.5
+Active Booster signup,Add Retail Health Policy,0.2
+Bike policy registration,Add Vehicle Policy,0.8
+Bike policy registration,Buy Bike Insurance,0.9
+Home coverage options,Add Home Policy,0.5
+Home coverage options,Buy Home Insurance,0.9
+Travel insurance upload,Add Travel Policy,0.4
+Travel insurance upload,Buy Travel Insurance,0.7
+Elevate support,Buy Elevate,0.6
+Elevate support,Add Health Policy,0.1
+MaxProtect registration,Buy MaxProtect,1.0
+MaxProtect registration,Add Corporate Health Policy,0.4
+Retail policy FAQ,Add Retail Health Policy,0.5
+Retail policy FAQ,Buy Active Booster,0.3
+Vehicle insurance terms,Add Vehicle Policy,0.6
+Vehicle insurance terms,Buy Car Insurance,0.5
+Home policy details,Add Home Policy,0.8
+Home policy details,Buy Home Insurance,0.7
+How do I enable face scan?,Face Scan,1.0
+Check my driving score,driving score,1.0
+Read blogs about insurance,blogs,1.0
+View my car insurance details,View Vehicle Policies,1.0
+Face scan not working,Face Scan,1.0
+What’s my current driving score?,driving score,1.0
+Latest health policy blogs,blogs,0.8
+Latest health policy blogs,View Health Policies,0.6
+Display travel policies,View Travel Policies,1.0
+Face ID setup for policies,Face Scan,0.9
+Improve my driving score,driving score,0.9
+Blogs on home insurance,blogs,1.0
+Blogs on home insurance,View Home Policies,0.7
+See my health coverage,View Health Policies,1.0
+Review vehicle policies,View Vehicle Policies,1.0
+Scan face to view policies,Face Scan,1.0
+Scan face to view policies,View Health Policies,0.7
+Driving score tips,driving score,0.8
+Driving score tips,blogs,0.6
+Can I switch my policy coverage?,Motor self inspection,0.1
+What are the penalties for late premium payments?,Face Scan,0.1
+Claim roadside assistance for my vehicle,Buy Active Booster,0.1
+Check my travel insurance coverage for international trips,Buy Travel insurance,0.1
+Find out what my home insurance covers,Buy Health AdvantEdge,0.1
+Get details on rental coverage in home insurance,View Health Quotient,0.1
+Can I extend my travel insurance duration?,Buy Elevate,0.1
+Check if my health insurance covers maternity expenses,Buy Home insurance,0.1
+Find out about waiting periods for health insurance,View Travel Policies,0.1
+What are the exclusions in my vehicle insurance?,Buy Health Insurance,0.1
+What documents do I need to file a home insurance claim?,Manage Documents,0.1
+Steps to renew my policy online,Driving Score,0.1
+Read about travel policies,blogs,0.7
+Read about travel policies,View Travel Policies,0.9
+View home insurance plans,View Home Policies,1.0
+Face recognition failed,Face Scan,1.0
+Update driving score,driving score,0.7
+Insurance blog updates,blogs,1.0
+Show health policy documents,View Health Policies,1.0
+Access car insurance info,View Vehicle Policies,1.0
+Login via face scan,Face Scan,1.0
+Login via face scan,View Health Policies,0.3
+Safe driving practices blog,blogs,0.8
+Safe driving practices blog,driving score,0.7
+Compare travel policies,View Travel Policies,0.9
+Home policy details,View Home Policies,1.0
+Reset face scan settings,Face Scan,1.0
+Driving score calculator,driving score,0.8
+Health policy articles,blogs,0.7
+Health policy articles,View Health Policies,0.9
+Vehicle policy terms,View Vehicle Policies,1.0
+Face scan for policy access,Face Scan,1.0
+Face scan for policy access,View Health Policies,0.4
+Driving score FAQs,blogs,0.6
+Driving score FAQs,driving score,0.8
+Travel insurance guides,blogs,0.7
+Travel insurance guides,View Travel Policies,0.9
+View home coverage,View Home Policies,1.0
+Troubleshoot face scan,Face Scan,1.0
+Driving score factors,driving score,0.9
+Blogs on corporate policies,blogs,0.8
+Blogs on corporate policies,View Health Policies,0.3
+Review health policies,View Health Policies,1.0
+Car insurance documents,View Vehicle Policies,1.0
+Face scan privacy,Face Scan,0.7
+Face scan privacy,blogs,0.4
+Driving score trends,driving score,0.7
+Driving score trends,blogs,0.6
+Travel policy updates,View Travel Policies,1.0
+Travel policy updates,blogs,0.5
+Home insurance blog,blogs,0.8
+Home insurance blog,View Home Policies,0.9
+Enable facial recognition,Face Scan,1.0
+Calculate my driving score,driving score,1.0
+Insurance tips blog,blogs,1.0
+Show health policy benefits,View Health Policies,1.0
+Motorcycle policy details,View Vehicle Policies,0.8
+Face scan security,Face Scan,0.9
+Face scan security,blogs,0.3
+Driving score analysis,driving score,0.8
+Driving score analysis,blogs,0.5
+Travel policy coverage,View Travel Policies,1.0
+Travel policy coverage,blogs,0.4
+View home policy terms,View Home Policies,1.0
+Face scan tutorial,Face Scan,1.0
+Face scan tutorial,blogs,0.6
+Driving score report,driving score,1.0
+Policy comparison blogs,blogs,0.9
+Policy comparison blogs,View Health Policies,0.5
+Health policy eligibility,View Health Policies,1.0
+View bike insurance,View Vehicle Policies,0.7
+Face scan permissions,Face Scan,0.8
+Face scan permissions,View Health Policies,0.2
+Driving score incentives,driving score,0.7
+Driving score incentives,blogs,0.5
+Travel insurance blogs,blogs,0.9
+Travel insurance blogs,View Travel Policies,0.8
+Home policy renewals,View Home Policies,1.0
+Face scan error,Face Scan,1.0
+Driving score app,driving score,0.8
+Insurance expert blogs,blogs,1.0
+Insurance expert blogs,View Health Policies,0.3
+Download health policies,View Health Policies,1.0
+View RV insurance,View Vehicle Policies,0.7
+Face scan settings,Face Scan,1.0
+Driving score impact,driving score,0.7
+Driving score impact,blogs,0.4
+Travel policy benefits,View Travel Policies,1.0
+Travel policy benefits,blogs,0.6
+Home policy discounts,View Home Policies,0.9
+Face scan troubleshooting,Face Scan,1.0
+Driving score tips blog,blogs,0.8
+Driving score tips blog,driving score,0.9
+Health policy summaries,View Health Policies,1.0
+View truck insurance,View Vehicle Policies,0.7
+Face scan benefits,Face Scan,0.8
+Face scan benefits,blogs,0.5
+Driving score history,driving score,1.0
+Travel policy FAQs,View Travel Policies,1.0
+Travel policy FAQs,blogs,0.6
+Home insurance guides,View Home Policies,0.9
+Home insurance guides,blogs,0.7
+Face scan registration,Face Scan,1.0
+Driving score alerts,driving score,0.7
+Insurance news blogs,blogs,1.0
+Insurance news blogs,View Health Policies,0.2
+Print health policies,View Health Policies,1.0
+View scooter insurance,View Vehicle Policies,0.6
+Face scan reliability,Face Scan,0.7
+Driving score trends blog,blogs,0.8
+Driving score trends blog,driving score,0.9
+Travel policy exclusions,View Travel Policies,1.0
+Travel policy exclusions,blogs,0.4
+Find out if my vehicle insurance covers floods,Blogs,0.1
+Check if my travel insurance covers trip cancellations,FAQs,0.1
+How can I transfer my vehicle insurance to a new owner?,View Home Policies,0.1
+Get a discount on my next insurance premium,Buy Car insurance,0.1
+Check my car insurance policy’s third-party liability coverage,Buy Bike insurance,0.1
+Find out if I have a personal accident cover in my insurance plan,Buy MaxProtect,0.1
+Find the best policy for senior citizens,Buy Active Booster Combo,0.1
+Compare travel insurance plans with different coverage limits,Buy Health AdvantEdge,0.1
+Renew license without valid PUC,PUC Validity,0.3
+Self-inspection report submission steps,Motor self inspection,1.0
+Self-inspection report submission steps,IL DriveSmart,0.2
+Challan discounts for DriveSmart users,View Challans,1.0
+Challan discounts for DriveSmart users,IL DriveSmart,0.9
+PUC validity check during inspection,PUC Validity,1.0
+PUC validity check during inspection,Motor self inspection,0.6
+DriveSmart integration with license,IL DriveSmart,1.0
+DriveSmart integration with license,Driving Licence,0.7
+"Hey, how can I add the health policy I bought last month to my account?",Add Health Policy,1.0
+I'm looking to get new health coverage - what are my options?,Buy Health Insurance,1.0
+Can you help me register my company's group health plan?,Add Corporate Health Policy,1.0
+Where do I sign up for that Elevate health plan I keep hearing about?,Buy Elevate,1.0
+Need to add my retail employee health benefits to the portal,Add Retail Health Policy,1.0
+Looking for good car insurance deals in Bangalore,Buy Car Insurance,1.0
+How do I link my existing travel insurance to my profile here?,Add Travel Policy,1.0
+Want to buy health insurance but not sure which one,Buy Health Insurance,0.9
+Want to buy health insurance but not sure which one,Add Health Policy,0.3
+Thinking about getting bike insurance - what's covered?,Buy Bike Insurance,0.9
+My broker said I should add my existing policy first,Add Health Policy,0.8
+Can I purchase Elevate coverage through this app?,Buy Elevate,1.0
+Help! Need to add my husband to my corporate health plan,Add Corporate Health Policy,1.0
+What's the process to buy that Active Booster package?,Buy Active Booster,1.0
+Trying to upload my motorcycle insurance documents,Add Vehicle Policy,1.0
+Need home insurance ASAP - my loan requires it,Buy Home Insurance,1.0
+Where do I enter my old health plan details?,Add Health Policy,1.0
+Interested in MaxProtect for my elderly parents,Buy MaxProtect,1.0
+Where do I enter my corporate wellness program?,Add Corporate Health Policy,1.0
+Adventure traveler - need comprehensive coverage,Buy Travel Insurance,1.0
+MaxProtect reviews from actual users?,Buy MaxProtect,0.8
+Changed bikes - how to update vehicle insurance?,Add Vehicle Policy,1.0
+Pre-existing conditions - what health plans cover?,Buy Health Insurance,1.0
+Digital nomad - best travel insurance options?,Buy Travel Insurance,1.0
+Where to upload my retail staff health documents?,Add Retail Health Policy,1.0
+Active Booster for senior citizens?,Buy Active Booster,1.0
+Buying first home - what insurance is mandatory?,Buy Home Insurance,1.0
+How to add my daughter to my health plan?,Add Health Policy,1.0
+Food delivery rider - need bike insurance,Buy Bike Insurance,1.0
+Corporate plan changed - how to update in app?,Add Corporate Health Policy,1.0
+Frequent flyer - annual travel insurance options?,Buy Travel Insurance,1.0
+Health AdvantEdge family plan details?,Buy Health AdvantEdge,1.0
+Lost my policy documents - how to re-add?,Add Health Policy,0.9
+Buying used car - transfer insurance steps?,Buy Car Insurance,1.0
+Where to enter my retail chain's health benefits?,Add Retail Health Policy,1.0
+Active Booster for chronic conditions?,Buy Active Booster,1.0
+Renting apartment - need tenant insurance?,Buy Home Insurance,0.8
+Newly divorced - how to split health policy?,Add Health Policy,0.8
+Delivery business - need commercial bike insurance,Buy Bike Insurance,1.0
+Expired corporate plan - how to renew in system?,Add Corporate Health Policy,1.0
+Backpacking Southeast Asia - travel insurance?,Buy Travel Insurance,1.0
+MaxProtect premium increasing - alternatives?,Buy MaxProtect,0.8
+Changed name - how to update on health policy?,Add Health Policy,0.9
+First car - what's the minimum insurance needed?,Buy Car Insurance,1.0
+Retail franchise owner - group health options?,Add Retail Health Policy,1.0
+How to register my travel insurance from MakeMyTrip?,Add Travel Policy,1.0
+Health AdvantEdge looks good - how do I enroll?,Buy Health AdvantEdge,1.0
+Closing on a house next week - need home insurance,Buy Home Insurance,1.0
+Just bought a policy - how do I add it to my account?,Add Health Policy,1.0
+My new scooter needs insurance - recommendations?,Buy Bike Insurance,0.8
+Company switched providers - how to add new corporate plan?,Add Corporate Health Policy,1.0
+Where can I see my existing policies?,View Health Policies,0.7
+Where can I see my existing policies?,View Vehicle Policies,0.5
+Got a new job - need to add their health benefits,Add Corporate Health Policy,1.0
+Traveling to US - need good travel insurance,Buy Travel Insurance,1.0
+Bought Elevate but can't find it in my account,Add Health Policy,0.8
+Bought Elevate but can't find it in my account,Buy Elevate,0.6
+Retail store owner looking for employee health plans,Add Retail Health Policy,1.0
+Active Booster vs MaxProtect - which is better?,Buy Active Booster,0.7
+Active Booster vs MaxProtect - which is better?,Buy MaxProtect,0.7
+Need to insure my new Thar - what's covered?,Buy Car Insurance,1.0
+How do I link my existing home insurance?,Add Home Policy,1.0
+Turning 60 - need better health coverage,Buy Health Insurance,1.0
+Where do I upload my vehicle insurance copy?,Add Vehicle Policy,1.0
+Find policies with zero depreciation cover,Buy Travel insurance,0.1
+What is the process to claim accidental hospitalization coverage?,View Health Quotient,0.1
+Find out about health insurance plans with OPD coverage,View Challans,0.1
+How do I avail of a free health checkup under my policy?,Track Health,0.1
+Can I convert my term insurance into a whole life policy?,Driving Licence,0.1
+Get details on the death benefit in my life insurance policy,Buy Health Insurance,0.1
+Find out about the premium payment frequency in my life insurance policy,Buy Travel insurance,0.1
+Check if my life insurance policy has a grace period,Buy Bike insurance,0.1
+What’s the latest news?,View Vehicle Policies,0.0
+Home policy claims process,View Home Policies,1.0
+Face scan authentication,Face Scan,1.0
+Driving score rewards,driving score,0.8
+Driving score rewards,blogs,0.5
+Health policy changes,View Health Policies,1.0
+View boat insurance,View Vehicle Policies,0.6
+Face scan speed,Face Scan,0.7
+Blogs on driving safety,blogs,0.9
+Blogs on driving safety,driving score,0.8
+Travel policy support,View Travel Policies,1.0
+Just had a baby - need to update health coverage,Add Health Policy,0.9
+Just had a baby - need to update health coverage,Buy Health Insurance,0.7
+Corporate HR here - need to enroll 50 employees,Add Corporate Health Policy,1.0
+Looking for travel insurance with COVID coverage,Buy Travel Insurance,1.0
+Health AdvantEdge premium seems high - alternatives?,Buy Health AdvantEdge,0.8
+How to add my parents to my existing policy?,Add Health Policy,1.0
+New driver here - what's the cheapest bike insurance?,Buy Bike Insurance,1.0
+Switching jobs - how to carry over my health plan?,Add Health Policy,0.9
+Bought a vintage car - special insurance needed?,Buy Car Insurance,0.9
+Where do I submit my retail health plan documents?,Add Retail Health Policy,1.0
+Active Booster combo worth it for gym enthusiasts?,Buy Active Booster Combo,1.0
+Moving abroad - need temporary health coverage,Buy Health Insurance,1.0
+How to link my travel insurance from last Europe trip?,Add Travel Policy,1.0
+Freelancer here - best health insurance options?,Buy Health Insurance,1.0
+Got married - how to merge our health policies?,Add Health Policy,0.8
+Renovating home - need to update home insurance,Buy Home Insurance,0.9
+Travel policy support,blogs,0.4
+Home policy coverage,View Home Policies,1.0
+Face scan accuracy,Face Scan,0.9
+Driving score dashboard,driving score,0.8
+Insurance glossary blogs,blogs,1.0
+Insurance glossary blogs,View Health Policies,0.2
+Email health policies,View Health Policies,1.0
+View ATV insurance,View Vehicle Policies,0.6
+Face scan tutorial video,Face Scan,1.0
+Face scan tutorial video,blogs,0.5
+Driving score simulator,driving score,0.7
+Travel policy reviews,View Travel Policies,0.9
+Travel policy reviews,blogs,0.6
+Home policy blog posts,View Home Policies,0.7
+Home policy blog posts,blogs,0.9
+Face scan compatibility,Face Scan,0.8
+Driving score factors blog,blogs,0.8
+Driving score factors blog,driving score,0.9
+Enable face scan and check my health policies,Face Scan,1.0
+Enable face scan and check my health policies,View Health Policies,0.8
+Troubleshoot driving score errors while viewing vehicle policies,driving score,0.9
+Troubleshoot driving score errors while viewing vehicle policies,View Vehicle Policies,0.8
+Read insurance blogs and compare travel policies,blogs,0.8
+Read insurance blogs and compare travel policies,View Travel Policies,0.8
+Update face scan settings and review home insurance,Face Scan,1.0
+Update face scan settings and review home insurance,View Home Policies,0.8
+Analyze driving score trends and read safety blogs,driving score,0.9
+Analyze driving score trends and read safety blogs,blogs,0.8
+Access health policy documents using face scan,View Health Policies,0.8
+Access health policy documents using face scan,Face Scan,0.9
+Fix face scan issues and check car insurance details,Face Scan,1.0
+Fix face scan issues and check car insurance details,View Vehicle Policies,0.8
+Browse travel policy blogs and calculate driving score,blogs,0.7
+Browse travel policy blogs and calculate driving score,driving score,0.8
+Register for face scan and view home coverage,Face Scan,1.0
+Register for face scan and view home coverage,View Home Policies,0.8
+Improve driving score while reading policy articles,driving score,0.9
+Improve driving score while reading policy articles,blogs,0.8
+Reset face scan and download health policy PDFs,Face Scan,1.0
+Reset face scan and download health policy PDFs,View Health Policies,0.7
+Compare driving score tips and read vehicle policy blogs,driving score,0.9
+Compare driving score tips and read vehicle policy blogs,blogs,0.8
+Scan face to login and review travel insurance,Face Scan,1.0
+Scan face to login and review travel insurance,View Travel Policies,0.6
+Generate driving score report and explore home policy blogs,driving score,0.9
+Generate driving score report and explore home policy blogs,View Home Policies,0.7
+Troubleshoot face scan errors and check bike insurance,Face Scan,1.0
+Troubleshoot face scan errors and check bike insurance,View Vehicle Policies,0.8
+Read health policy updates and validate driving score,View Health Policies,0.8
+Read health policy updates and validate driving score,driving score,0.7
+Configure face scan security and view travel coverage,Face Scan,1.0
+Configure face scan security and view travel coverage,View Travel Policies,0.8
+Monitor driving score history and read home insurance blogs,driving score,0.8
+Monitor driving score history and read home insurance blogs,blogs,0.7
+How do I manage my health records?,Manage Documents,1.0
+Steps to link ABHA ID,Steps,1.0
+Track my health metrics,Track Health,1.0
+FAQs about health quotient,FAQs,1.0
+Upload health records,Health records,1.0
+View my health quotient score,View Health Quotient,1.0
+Create an ABHA ID,ABHA Id,1.0
+Download health documents,Manage Documents,0.9
+Steps to track daily health,Steps,0.9
+FAQs on ABHA registration,FAQs,0.8
+FAQs on ABHA registration,ABHA Id,0.7
+Delete old health records,Health records,0.8
+Delete old health records,Manage Documents,0.6
+Update my health quotient,View Health Quotient,0.7
+Update my health quotient,Track Health,0.5
+Troubleshoot ABHA ID issues,ABHA Id,1.0
+Troubleshoot ABHA ID issues,FAQs,0.6
+Steps to generate health reports,Steps,1.0
+Steps to generate health reports,Track Health,0.7
+Manage health documents online,Manage Documents,1.0
+Manage health documents online,Health records,0.8
+Track monthly health trends,Track Health,1.0
+Track monthly health trends,View Health Quotient,0.4
+FAQs for health record access,FAQs,1.0
+FAQs for health record access,Health records,0.5
+Sync ABHA ID with records,ABHA Id,0.9
+Sync ABHA ID with records,Health records,0.6
+Steps to view health quotient,Steps,0.8
+Steps to view health quotient,View Health Quotient,0.9
+Backup health records,Health records,1.0
+Backup health records,Manage Documents,0.7
+FAQs about tracking health,FAQs,0.8
+FAQs about tracking health,Track Health,0.6
+Renew ABHA ID,ABHA Id,1.0
+Renew ABHA ID,Steps,0.3
+Active Booster for pre-existing diabetes?,Buy Active Booster,1.0
+Buying condo - difference from home insurance?,Buy Home Insurance,0.9
+How to combine my two health policies?,Add Health Policy,0.9
+Food delivery startup - insure our rider bikes,Buy Bike Insurance,1.0
+Merging companies - how to combine health plans?,Add Corporate Health Policy,1.0
+World cruise - best travel insurance?,Buy Travel Insurance,1.0
+Health AdvantEdge vs regular health insurance?,Buy Health AdvantEdge,0.9
+Digital policy copy - how to add to account?,Add Health Policy,0.8
+Classic car insurance requirements?,Buy Car Insurance,0.9
+Large retail staff - bulk health plan upload?,Add Retail Health Policy,1.0
+Active Booster for marathon training?,Buy Active Booster,1.0
+Rental property insurance vs home insurance?,Buy Home Insurance,0.8
+Adopted child - add to health policy steps?,Add Health Policy,1.0
+Electric bike insurance different?,Buy Bike Insurance,0.9
+Corporate wellness program integration?,Add Corporate Health Policy,1.0
+Digital nomad health insurance options?,Buy Health Insurance,1.0
+MaxProtect for cancer survivors?,Buy MaxProtect,1.0
+Married name change on health policy?,Add Health Policy,0.9
+Rare car collection insurance?,Buy Car Insurance,0.9
+Multi-state retail chain health plans?,Add Retail Health Policy,1.0
+Active Booster for extreme sports?,Buy Active Booster,1.0
+Vacation home insurance requirements?,Buy Home Insurance,0.8
+Domestic partner health policy addition?,Add Health Policy,0.9
+Food delivery bike insurance commercial vs personal?,Buy Bike Insurance,1.0
+International corporate health plan setup?,Add Corporate Health Policy,1.0
+Expat returning to India - health insurance?,Buy Health Insurance,1.0
+Health AdvantEdge for NRI customers?,Buy Health AdvantEdge,1.0
+Changed email - update on health policy?,Add Health Policy,0.8
+Modified car insurance implications?,Buy Car Insurance,0.9
+Seasonal retail staff health coverage?,Add Retail Health Policy,1.0
+Active Booster for pre-existing heart condition?,Buy Active Booster,1.0
+Renting out my home - insurance changes?,Buy Home Insurance,0.8
+Newborn addition to health policy timeline?,Add Health Policy,1.0
+Multiple bike insurance discount?,Buy Bike Insurance,0.9
+Corporate health plan for remote employees?,Add Corporate Health Policy,1.0
+Senior citizen travel insurance options?,Buy Travel Insurance,1.0
+MaxProtect lifetime renewal guarantee?,Buy MaxProtect,0.8
+Policy transfer between states process?,Add Health Policy,0.8
+View health quotient history,View Health Quotient,1.0
+View health quotient history,Track Health,0.4
+Organize health documents,Manage Documents,1.0
+Organize health documents,Health records,0.7
+Steps to share health data,Steps,0.9
+Steps to share health data,Track Health,0.5
+FAQs on health quotient accuracy,FAQs,1.0
+FAQs on health quotient accuracy,View Health Quotient,0.6
+Link ABHA ID to hospital,ABHA Id,1.0
+Link ABHA ID to hospital,Steps,0.4
+Track mental health progress,Track Health,1.0
+Vintage bike insurance appraisal needed?,Buy Bike Insurance,0.9
+Retail health plan for part-time workers?,Add Retail Health Policy,1.0
+Active Booster for wheelchair users?,Buy Active Booster,1.0
+Home insurance during renovation?,Buy Home Insurance,0.8
+Divorce health policy separation steps?,Add Health Policy,0.8
+Commercial vs personal bike insurance?,Buy Bike Insurance,1.0
+Global corporate health plan options?,Add Corporate Health Policy,1.0
+Adventure sports travel insurance?,Buy Travel Insurance,1.0
+Health AdvantEdge Ayurveda coverage?,Buy Health AdvantEdge,1.0
+Policy number change update process?,Add Health Policy,0.8
+Modified bike insurance restrictions?,Buy Bike Insurance,0.9
+Temporary retail staff health coverage?,Add Retail Health Policy,1.0
+Active Booster for pregnancy coverage?,Buy Active Booster,1.0
+Vacant home insurance requirements?,Buy Home Insurance,0.8
+Common-law partner health policy addition?,Add Health Policy,0.9
+Food delivery bike insurance hourly basis?,Buy Bike Insurance,1.0
+Startup corporate health plan options?,Add Corporate Health Policy,1.0
+Long-term travel insurance options?,Buy Travel Insurance,1.0
+MaxProtect for rare diseases?,Buy MaxProtect,1.0
+Policy beneficiary change steps?,Add Health Policy,0.8
+Electric car insurance differences?,Buy Car Insurance,0.9
+Seasonal retail business health plans?,Add Retail Health Policy,1.0
+Active Booster for mental health coverage?,Buy Active Booster,1.0
+Rental property insurance claim process?,Buy Home Insurance,0.8
+Stepchild addition to health policy?,Add Health Policy,0.9
+Bike insurance for delivery startups?,Buy Bike Insurance,1.0
+Corporate health plan for contractors?,Add Corporate Health Policy,1.0
+Track mental health progress,Health records,0.3
+Delete ABHA ID,ABHA Id,1.0
+Delete ABHA ID,Manage Documents,0.2
+Steps to export health records,Steps,1.0
+Steps to export health records,Health records,0.8
+FAQs for managing documents,FAQs,1.0
+FAQs for managing documents,Manage Documents,0.7
+View health quotient trends,View Health Quotient,1.0
+View health quotient trends,Track Health,0.6
+Recover lost ABHA ID,ABHA Id,1.0
+Recover lost ABHA ID,FAQs,0.5
+Archive old health records,Health records,0.9
+Archive old health records,Manage Documents,0.8
+Steps to monitor health goals,Steps,0.8
+Steps to monitor health goals,Track Health,0.9
+FAQs on health records privacy,FAQs,1.0
+FAQs on health records privacy,Health records,0.7
+Verify ABHA ID details,ABHA Id,1.0
+Verify ABHA ID details,Steps,0.4
+Compare health quotient scores,View Health Quotient,1.0
+Compare health quotient scores,Track Health,0.5
+Edit health documents,Manage Documents,1.0
+Edit health documents,Health records,0.6
+Steps to reset health tracker,Steps,1.0
+Steps to reset health tracker,Track Health,0.7
+FAQs about ABHA benefits,FAQs,0.9
+FAQs about ABHA benefits,ABHA Id,0.8
+Download health quotient report,View Health Quotient,1.0
+Download health quotient report,Manage Documents,0.4
+Track vaccination records,Health records,0.7
+Track vaccination records,Track Health,0.8
+FAQs for health quotient access,FAQs,1.0
+FAQs for health quotient access,View Health Quotient,0.7
+Steps to merge ABHA IDs,Steps,0.8
+Steps to merge ABHA IDs,ABHA Id,0.9
+Backup health documents,Manage Documents,1.0
+Backup health documents,Health records,0.7
+View health quotient dashboard,View Health Quotient,1.0
+View health quotient dashboard,Track Health,0.3
+FAQs on document security,FAQs,0.8
+FAQs on document security,Manage Documents,0.6
+Update ABHA ID photo,ABHA Id,1.0
+Update ABHA ID photo,Steps,0.5
+Track fitness metrics,Track Health,1.0
+Track fitness metrics,Health records,0.2
+Steps to print health records,Steps,0.9
+Steps to print health records,Health records,0.7
+FAQs about health trends,FAQs,0.7
+FAQs about health trends,Track Health,0.6
+Share ABHA ID securely,ABHA Id,1.0
+Share ABHA ID securely,Manage Documents,0.3
+View health quotient milestones,View Health Quotient,1.0
+View health quotient milestones,Track Health,0.5
+Organize medical documents,Manage Documents,1.0
+Organize medical documents,Health records,0.8
+Steps to sync health data,Steps,0.9
+Steps to sync health data,Track Health,0.7
+FAQs on ABHA integration,FAQs,0.8
+FAQs on ABHA integration,ABHA Id,0.7
+Track sleep patterns,Track Health,1.0
+Track sleep patterns,Health records,0.3
+Delete outdated documents,Manage Documents,1.0
+Delete outdated documents,Health records,0.4
+Steps to check health quotient,Steps,0.7
+Steps to check health quotient,View Health Quotient,0.9
+FAQs for health tracking,FAQs,0.9
+FAQs for health tracking,Track Health,0.7
+Validate ABHA ID,ABHA Id,1.0
+Validate ABHA ID,Steps,0.4
+Export health quotient data,View Health Quotient,1.0
+Worldwide travel insurance options?,Buy Travel Insurance,1.0
+Health AdvantEdge for alternative therapies?,Buy Health AdvantEdge,1.0
+Policy cancellation and re-addition?,Add Health Policy,0.8
+Classic bike insurance requirements?,Buy Bike Insurance,0.9
+Pop-up retail store health coverage?,Add Retail Health Policy,1.0
+Active Booster for pre-existing conditions?,Buy Active Booster,1.0
+Home insurance for inherited property?,Buy Home Insurance,0.8
+Foster child health policy addition?,Add Health Policy,0.9
+Bike insurance for gig economy workers?,Buy Bike Insurance,1.0
+Corporate health plan for interns?,Add Corporate Health Policy,1.0
+Cruise travel insurance specifics?,Buy Travel Insurance,1.0
+MaxProtect for transplant patients?,Buy MaxProtect,1.0
+Policy reinstatement after lapse?,Add Health Policy,0.8
+Antique bike insurance process?,Buy Bike Insurance,0.9
+Temporary retail event staff coverage?,Add Retail Health Policy,1.0
+Active Booster for disability coverage?,Buy Active Booster,1.0
+Vacation rental insurance options?,Buy Home Insurance,0.8
+Legal guardian health policy addition?,Add Health Policy,0.9
+Bike insurance for app-based delivery?,Buy Bike Insurance,1.0
+Corporate health plan for volunteers?,Add Corporate Health Policy,1.0
+Adventure travel insurance exclusions?,Buy Travel Insurance,1.0
+Health AdvantEdge for yoga therapy?,Buy Health AdvantEdge,1.0
+Policy transfer after marriage?,Add Health Policy,0.9
+Custom bike insurance requirements?,Buy Bike Insurance,0.9
+Seasonal retail health plan options?,Add Retail Health Policy,1.0
+Active Booster for genetic conditions?,Buy Active Booster,1.0
+Second home insurance discounts?,Buy Home Insurance,0.8
+Grandparent health policy addition?,Add Health Policy,0.9
+Bike insurance for multiple riders?,Buy Bike Insurance,1.0
+Corporate health plan for consultants?,Add Corporate Health Policy,1.0
+Extreme sports travel insurance?,Buy Travel Insurance,1.0
+MaxProtect for chronic pain patients?,Buy MaxProtect,1.0
+Policy merge after domestic partnership?,Add Health Policy,0.9
+Vintage bike club group insurance?,Buy Bike Insurance,0.9
+Temporary retail health coverage options?,Add Retail Health Policy,1.0
+Active Booster for alternative medicine?,Buy Active Booster,1.0
+Vacation home rental insurance?,Buy Home Insurance,0.8
+Export health quotient data,Manage Documents,0.5
+Track diet progress,Track Health,1.0
+Track diet progress,Health records,0.2
+Steps to recover documents,Steps,0.8
+Steps to recover documents,Manage Documents,0.9
+FAQs on health records format,FAQs,1.0
+FAQs on health records format,Health records,0.6
+ABHA ID for family members,ABHA Id,1.0
+ABHA ID for family members,Steps,0.3
+View health quotient alerts,View Health Quotient,1.0
+View health quotient alerts,Track Health,0.4
+Manage shared documents,Manage Documents,1.0
+Manage shared documents,Health records,0.3
+Steps to analyze health data,Steps,0.8
+Steps to analyze health data,Track Health,0.9
+FAQs on quotient accuracy,FAQs,0.7
+FAQs on quotient accuracy,View Health Quotient,0.8
+Deactivate ABHA ID,ABHA Id,1.0
+Deactivate ABHA ID,Manage Documents,0.2
+Track blood pressure history,Track Health,1.0
+Track blood pressure history,Health records,0.7
+Steps to upload documents,Steps,0.9
+Steps to upload documents,Manage Documents,1.0
+FAQs for health quotient,FAQs,0.8
+Tell me a bedtime story,View Travel Policies,0.0
+Order food from a restaurant,View Home Policies,0.0
+Create a shopping list,Buy Active Booster Combo,0.0
+FAQs for health quotient,View Health Quotient,0.9
+Steps to organize health records and manage documents,Steps,1.0
+Steps to organize health records and manage documents,Manage Documents,0.7
+Track fitness metrics and view health quotient trends,Track Health,1.0
+Track fitness metrics and view health quotient trends,View Health Quotient,0.6
+Link ABHA ID and read FAQs for troubleshooting,ABHA Id,1.0
+Link ABHA ID and read FAQs for troubleshooting,FAQs,0.5
+Upload health records and track sleep patterns,Health records,1.0
+Upload health records and track sleep patterns,Track Health,0.8
+Update health quotient and download health documents,View Health Quotient,0.9
+Update health quotient and download health documents,Manage Documents,0.6
+Troubleshoot ABHA ID errors using FAQ guides,ABHA Id,1.0
+Troubleshoot ABHA ID errors using FAQ guides,FAQs,0.7
+Sync health records and analyze health quotient,Health records,1.0
+Sync health records and analyze health quotient,View Health Quotient,0.8
+Delete outdated documents and check health quotient,Manage Documents,1.0
+Delete outdated documents and check health quotient,View Health Quotient,0.4
+Generate ABHA ID and follow setup steps,ABHA Id,1.0
+Generate ABHA ID and follow setup steps,Steps,0.6
+Track diet progress and manage health records,Track Health,1.0
+Track diet progress and manage health records,Health records,0.7
+FAQs for document security and ABHA ID renewal,FAQs,1.0
+FAQs for document security and ABHA ID renewal,ABHA Id,0.5
+Track my daily steps,Buy Elevate,0.0
+Please register a health insurance policy,Add Health Policy,1.0
+Help me add a new health policy,Add Health Policy,1.0
+View health quotient dashboard and export data,View Health Quotient,1.0
+View health quotient dashboard and export data,Manage Documents,0.4
+Steps to recover lost ABHA ID and read FAQs,Steps,1.0
+Steps to recover lost ABHA ID and read FAQs,FAQs,0.6
+Organize medical documents and track blood pressure,Manage Documents,1.0
+Organize medical documents and track blood pressure,Track Health,0.5
+Validate ABHA ID and update health records,ABHA Id,1.0
+Validate ABHA ID and update health records,Health records,0.7
+FAQs about health quotient accuracy and steps,FAQs,1.0
+FAQs about health quotient accuracy and steps,Steps,0.4
+Backup health records and view quotient alerts,Health records,1.0
+Backup health records and view quotient alerts,View Health Quotient,0.6
+Deactivate ABHA ID and delete old documents,ABHA Id,1.0
+Deactivate ABHA ID and delete old documents,Manage Documents,0.8
+Track sleep patterns and read health blogs,Track Health,1.0
+Track sleep patterns and read health blogs,FAQs,0.3
+Steps to print health records and check quotient,Steps,1.0
+Steps to print health records and check quotient,View Health Quotient,0.7
+Check pending challans and renew driving license,View Challans,1.0
+Check pending challans and renew driving license,Driving Licence,0.7
+Verify PUC validity and submit motor inspection,PUC Validity,1.0
+Verify PUC validity and submit motor inspection,Motor self inspection,0.8
+View DriveSmart score and update license details,IL DriveSmart,1.0
+View DriveSmart score and update license details,Driving Licence,0.6
+Pay traffic fines via DriveSmart app,View Challans,0.9
+Pay traffic fines via DriveSmart app,IL DriveSmart,0.7
+How to complete self-inspection?,Motor self inspection,1.0
+Check DL status and PUC expiry date,Driving Licence,1.0
+Check DL status and PUC expiry date,PUC Validity,0.7
+Analyze DriveSmart data and challan history,IL DriveSmart,1.0
+Analyze DriveSmart data and challan history,View Challans,0.6
+Renew PUC certificate online,PUC Validity,1.0
+Update driving license photo using DriveSmart,Driving Licence,1.0
+Update driving license photo using DriveSmart,IL DriveSmart,0.5
+Download self-inspection checklist,Motor self inspection,1.0
+Resolve failed challan payment,View Challans,1.0
+Apply for duplicate driving license,Driving Licence,1.0
+Extend PUC validity period,PUC Validity,1.0
+DriveSmart app not updating score,IL DriveSmart,1.0
+Motor inspection due date reminder,Motor self inspection,1.0
+Confirm challan payment status,View Challans,1.0
+Link driving license to DriveSmart profile,Driving Licence,0.8
+Link driving license to DriveSmart profile,IL DriveSmart,0.8
+Upload PUC and inspection report,PUC Validity,1.0
+Upload PUC and inspection report,Motor self inspection,1.0
+Dispute incorrect challan charges,View Challans,1.0
+Track driving license delivery status,Driving Licence,1.0
+Check PUC validity for multiple vehicles,PUC Validity,1.0
+Improve DriveSmart score for discounts,IL DriveSmart,1.0
+Schedule motor self-inspection appointment,Motor self inspection,1.0
+View past challans for 2023,View Challans,1.0
+Change address on driving license,Driving Licence,1.0
+Download digital PUC certificate,PUC Validity,1.0
+DriveSmart leaderboard rankings,IL DriveSmart,1.0
+Motor inspection failure reasons,Motor self inspection,1.0
+Challan payment gateway issues,View Challans,1.0
+Verify driving license authenticity,Driving Licence,1.0
+PUC validity for commercial vehicles,PUC Validity,1.0
+Reset DriveSmart account password,IL DriveSmart,1.0
+Re-submit rejected motor inspection,Motor self inspection,1.0
+Calculate total pending challan amount,View Challans,1.0
+Renew international driving license,Driving Licence,1.0
+PUC validity check via SMS,PUC Validity,1.0
+DriveSmart safe driving tips,IL DriveSmart,1.0
+Motor inspection checklist PDF,Motor self inspection,1.0
+Challan history export to email,View Challans,1.0
+Add vehicle to driving license,Driving Licence,1.0
+PUC validity grace period,PUC Validity,1.0
+DriveSmart referral program,IL DriveSmart,1.0
+Motor inspection video guidelines,Motor self inspection,1.0
+Challan discount offers,View Challans,1.0
+Driving license test slots booking,Driving Licence,1.0
+PUC centers near me,PUC Validity,1.0
+DriveSmart achievement badges,IL DriveSmart,1.0
+Motor inspection for leased vehicles,Motor self inspection,1.0
+Challan payment receipt download,View Challans,1.0
+Driving license points system,Driving Licence,1.0
+Emergency PUC renewal,PUC Validity,1.0
+DriveSmart monthly report,IL DriveSmart,1.0
+Motor inspection after modifications,Motor self inspection,1.0
+Challan status for rented vehicle,View Challans,1.0
+Driving license suspension reasons,Driving Licence,1.0
+PUC validity for electric vehicles,PUC Validity,1.0
+DriveSmart accident alert feature,IL DriveSmart,1.0
+Third-party motor inspection,Motor self inspection,1.0
+Challan payment plans,View Challans,1.0
+Driving license hologram verification,Driving Licence,1.0
+PUC validity for vintage cars,PUC Validity,1.0
+DriveSmart fuel efficiency tips,IL DriveSmart,1.0
+Motor inspection for insurance,Motor self inspection,1.0
+Challan due date reminders,View Challans,1.0
+Driving license renewal steps,Driving Licence,1.0
+PUC validity and pollution norms,PUC Validity,1.0
+DriveSmart night driving analytics,IL DriveSmart,1.0
+Motor inspection certification process,Motor self inspection,1.0
+Check challans across states,View Challans,1.0
+Driving license biometric update,Driving Licence,1.0
+PUC validity for imported bikes,PUC Validity,1.0
+DriveSmart carpooling rewards,IL DriveSmart,1.0
+Motor inspection for commercial trucks,Motor self inspection,1.0
+Challan payment history archive,View Challans,1.0
+Driving license test reschedule,Driving Licence,1.0
+PUC validity during lockdown,PUC Validity,1.0
+DriveSmart eco-driving score,IL DriveSmart,1.0
+Motor inspection app troubleshooting,Motor self inspection,1.0
+View challans with vehicle number,View Challans,1.0
+Driving license smart card delivery,Driving Licence,1.0
+PUC validity for hybrid cars,PUC Validity,1.0
+DriveSmart trip history export,IL DriveSmart,1.0
+Motor inspection for vintage vehicles,Motor self inspection,1.0
+Challan payment via UPI,View Challans,1.0
+Driving license address change steps,Driving Licence,1.0
+PUC validity and insurance renewal,PUC Validity,1.0
+PUC validity and insurance renewal,Motor self inspection,0.4
+DriveSmart speed limit alerts,IL DriveSmart,1.0
+Motor inspection for leased cars,Motor self inspection,1.0
+Check challan with DL number,View Challans,0.8
+Check challan with DL number,Driving Licence,0.6
+Renew PUC and driving license together,PUC Validity,1.0
+Renew PUC and driving license together,Driving Licence,0.9
+DriveSmart and motor inspection linked,IL DriveSmart,1.0
+DriveSmart and motor inspection linked,Motor self inspection,0.7
+Challan disputes via DriveSmart app,View Challans,1.0
+Challan disputes via DriveSmart app,IL DriveSmart,0.6
+Update PUC and license simultaneously,PUC Validity,1.0
+Update PUC and license simultaneously,Driving Licence,0.7
+Motor inspection affects DriveSmart score,Motor self inspection,1.0
+Motor inspection affects DriveSmart score,IL DriveSmart,0.8
+Pay challan and check PUC validity,View Challans,1.0
+Pay challan and check PUC validity,PUC Validity,0.7
+Driving license renewal with PUC,Driving Licence,1.0
+Driving license renewal with PUC,PUC Validity,0.5
+DriveSmart rewards for clean PUC,IL DriveSmart,1.0
+DriveSmart rewards for clean PUC,PUC Validity,0.6
+Self-inspection before DriveSmart audit,Motor self inspection,1.0
+Self-inspection before DriveSmart audit,IL DriveSmart,0.4
+Challan history impacts DriveSmart rating,View Challans,1.0
+Challan history impacts DriveSmart rating,IL DriveSmart,0.7
+Expired PUC blocks license renewal,PUC Validity,1.0
+Expired PUC blocks license renewal,Driving Licence,0.6
+Motor inspection checklist in DriveSmart,Motor self inspection,1.0
+Motor inspection checklist in DriveSmart,IL DriveSmart,0.5
+Challan payment via DriveSmart wallet,View Challans,1.0
+Challan payment via DriveSmart wallet,IL DriveSmart,0.8
+Upload PUC after self-inspection,PUC Validity,1.0
+Upload PUC after self-inspection,Motor self inspection,0.7
+DriveSmart tips to avoid challans,IL DriveSmart,1.0
+DriveSmart tips to avoid challans,View Challans,0.6
+Renew license without valid PUC,Driving Licence,1.0
+Initiate health coverage policy,Add Health Policy,1.0

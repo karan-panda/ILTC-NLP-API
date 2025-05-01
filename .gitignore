@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+models/fine_tuned_intent_model/
+models/iltc_finetuned_model/
+Training/cache/*

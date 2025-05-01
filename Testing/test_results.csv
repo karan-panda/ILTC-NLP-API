@@ -1,0 +1,102 @@
+user_input,user_intent,score,predicted_score,predicted_intent
+I want to add a policy,Add Policy,1.0,0.9551198482513428,Add Policy: /add-policy
+Please add a new policy for me,Add Policy,1.0,0.9626631736755371,Add Policy: /add-policy
+Help me register a policy,Add Policy,0.95,0.9517934918403625,Add Policy: /add-policy
+Start a policy application,Add Policy,0.9,0.9091378450393677,Add Policy: /add-policy
+Add my insurance policy,Add Policy,0.98,0.9823557138442993,Add Policy: /add-policy
+I need to initiate a policy,Add Policy,0.95,0.9085944890975952,Add Policy: /add-policy
+Can you help me add a policy?,Add Policy,0.95,0.9632503390312195,Add Policy: /add-policy
+Process a new policy for my account,Add Policy,0.9,0.9216768741607666,Add Policy: /add-policy
+I would like to add an insurance policy,Add Policy,0.95,0.9500008821487427,Add Policy: /add-policy
+Register a new policy for me,Add Policy,0.95,0.9557188749313354,Add Policy: /add-policy
+I want to add a health policy,Add Health Policy,0.95,0.9857025742530823,Add Health Policy: /add-policy/health
+Please register a health insurance policy,Add Health Policy,0.95,0.9549401998519897,Add Health Policy: /add-policy/health
+Help me add a new health policy,Add Health Policy,0.95,0.9867024421691895,Add Health Policy: /add-policy/health
+Initiate health coverage policy,Add Health Policy,0.95,0.9351184368133545,Add Health Policy: /add-policy/health
+I need to add a corporate health policy,Add Corporate Health Policy,0.95,0.9925334453582764,Add Corporate Health Policy: /add-policy/health?type=corporate
+Register a health policy for my company,Add Corporate Health Policy,0.95,0.9477671980857849,Add Corporate Health Policy: /add-policy/health?type=corporate
+Please add corporate health insurance,Add Corporate Health Policy,0.95,0.9884973764419556,Add Corporate Health Policy: /add-policy/health?type=corporate
+Start a corporate health policy process,Add Corporate Health Policy,0.95,0.9679772853851318,Add Corporate Health Policy: /add-policy/health?type=corporate
+I want to add a retail health policy,Add Retail Health Policy,0.95,0.9904012084007263,Add Retail Health Policy: /add-policy/health?type=retail
+Help me register a personal health policy,Add Retail Health Policy,0.95,0.9504649639129639,Add Health Policy: /add-policy/health
+Add my retail health insurance policy,Add Retail Health Policy,0.95,0.981031060218811,Add Retail Health Policy: /add-policy/health?type=retail
+Initiate a retail health policy application,Add Retail Health Policy,0.95,0.9857435822486877,Add Retail Health Policy: /add-policy/health?type=retail
+I need to add a vehicle insurance policy,Add Vehicle Policy,0.95,0.9722029566764832,Add Vehicle Policy: /add-policy/vehicle
+Register a new vehicle policy,Add Vehicle Policy,0.95,0.9704033732414246,Add Vehicle Policy: /add-policy/vehicle
+Help me add car insurance policy,Add Vehicle Policy,0.95,0.936571478843689,Add Vehicle Policy: /add-policy/vehicle
+Initiate a vehicle policy for my car,Add Vehicle Policy,0.95,0.9424146413803101,Add Vehicle Policy: /add-policy/vehicle
+I want to add a travel insurance policy,Add Travel Policy,0.95,0.9742931127548218,Add Travel Policy: /add-policy/travel
+Please register a travel policy,Add Travel Policy,0.85,0.941635012626648,Add Travel Policy: /add-policy/travel
+Help me add travel coverage,Add Travel Policy,0.85,0.954012393951416,Add Travel Policy: /add-policy/travel
+Initiate a travel insurance policy,Add Travel Policy,0.85,0.9227356910705566,Add Travel Policy: /add-policy/travel
+I want to add a home insurance policy,Add Home Policy,0.85,0.9640588164329529,Add Home Policy: /add-policy/home
+Register a home policy for me,Add Home Policy,0.85,0.9616707563400269,Add Home Policy: /add-policy/home
+Help me add home coverage,Add Home Policy,0.95,0.9622641801834106,Add Home Policy: /add-policy/home
+Initiate home insurance policy,Add Home Policy,0.95,0.932606041431427,Add Home Policy: /add-policy/home
+I want to buy health insurance,Buy Health Insurance,0.95,0.9904396533966064,Buy Health Insurance: /buy/health
+Purchase health insurance plan,Buy Health Insurance,0.95,0.9820001125335693,Buy Health Insurance: /buy/health
+Help me buy a health insurance policy,Buy Health Insurance,0.95,0.9679032564163208,Buy Health Insurance: /buy/health
+Looking to purchase health insurance,Buy Health Insurance,0.95,0.9890056252479553,Buy Health Insurance: /buy/health
+I want to buy Elevate insurance,Buy Elevate,0.95,0.9435575604438782,Buy Elevate: /buy/health/elevate
+Purchase Elevate plan,Buy Elevate,0.95,0.9772359132766724,Buy Elevate: /buy/health/elevate
+Help me buy the Elevate package,Buy Elevate,0.95,0.9713706970214844,Buy Elevate: /buy/health/elevate
+I want to buy MaxProtect insurance,Buy MaxProtect,0.95,0.9600842595100403,Buy MaxProtect: /buy/health/maxprotect
+Purchase MaxProtect plan,Buy MaxProtect,0.95,0.9923154711723328,Buy MaxProtect: /buy/health/maxprotect
+I want to buy Active Booster Combo,Buy Active Booster Combo,0.95,0.9831149578094482,Buy Active Booster Combo: /buy/health/active-booster-combo
+Purchase the Anime plan,Buy Active Booster Combo,0.1,0.5468980073928833,Add Retail Health Policy: /add-policy/health?type=retail
+Help me get Active Booster Combo insurance,Buy Active Booster Combo,0.9,0.9538639187812805,Buy Active Booster Combo: /buy/health/active-booster-combo
+Purchase the Health AdvantEdge plan,Buy Health AdvantEdge,0.9,0.9880015850067139,Buy Health AdvantEdge: /buy/health/advantEdge
+Help me buy Health AdvantEdge insurance,Buy Health AdvantEdge,0.9,0.9737091064453125,Buy Health AdvantEdge: /buy/health/advantEdge
+I want to buy car insurance,Buy Car insurance,0.9,0.9871053099632263,Buy Car Insurance: /buy/car
+Purchase a car insurance policy,Buy Car insurance,0.9,0.9579117298126221,Buy Car Insurance: /buy/car
+Access ABHA Id,ABHA Id,0.9,0.9908300638198853,ABHA Id: /benefits/health/abha-id
+What is my ABHA Id?,ABHA Id,0.9,0.9777163863182068,ABHA Id: /benefits/health/abha-id
+I want to track my health,Track Health,0.9,0.8281879425048828,Track Health: /benefits/health/track-health
+I want to view my challans,View Challans,0.9,0.9825764298439026,View Challans: /benefits/motor/view-challans
+Access driving licence details,Driving Licence,0.9,0.9780635833740234,Driving Licence: /benefits/motor/driving-licence
+Where is my driving licence?,Driving Licence,0.9,0.975318431854248,Driving Licence: /benefits/motor/driving-licence
+Check my PUC validity,PUC Validity,0.9,0.9680044651031494,PUC Validity: /benefits/motor/puc-validity
+What is my PUC validity?,PUC Validity,0.9,0.9784249067306519,PUC Validity: /benefits/motor/puc-validity
+I want to use IL DriveSmart,IL DriveSmart,0.9,0.9524451494216919,IL DriveSmart: /benefits/motor/drive-smart
+Show IL DriveSmart details,IL DriveSmart,0.9,0.9790682196617126,IL DriveSmart: /benefits/motor/drive-smart
+Link old travel policy and get new travel insurance,Buy Travel Insurance,0.9,0.9139010906219482,Add Travel Policy: /add-policy/travel
+Register health plan and buy Elevate package,Add Health Policy,0.9,0.9025883674621582,Add Retail Health Policy: /add-policy/health?type=retail
+Register health plan and buy Elevate package,Buy Elevate,0.9,0.9025883674621582,Add Retail Health Policy: /add-policy/health?type=retail
+Integrate corporate plan and purchase MaxProtect,Add Corporate Health Policy,0.9,0.906990110874176,Buy MaxProtect: /buy/health/maxprotect
+Integrate corporate plan and purchase MaxProtect,Buy MaxProtect,1.0,0.906990110874176,Buy MaxProtect: /buy/health/maxprotect
+Add retail policy and buy Active Booster,Add Retail Health Policy,1.0,0.8681530952453613,Add Retail Health Policy: /add-policy/health?type=retail
+Buy home coverage,Buy Home Insurance,0.9,0.9861853718757629,Buy Home Insurance: /buy/home
+Existing health plan help,Add Health Policy,0.6,0.8754911422729492,View Health Policies: /health
+MaxProtect pricing,Buy MaxProtect,0.8,0.954397439956665,Buy MaxProtect: /buy/health/maxprotect
+Corporate policy integration,Add Corporate Health Policy,0.7,0.8786294460296631,Add Corporate Health Policy: /add-policy/health?type=corporate
+Bike insurance options,Buy Bike Insurance,0.8,0.9655570983886719,Buy Bike Insurance: /buy/bike
+Old travel policy help,Add Travel Policy,0.6,0.935276985168457,View Travel Policies: /travel
+Health AdvantEdge cost,Buy Health AdvantEdge,0.8,0.9328659176826477,Buy Health AdvantEdge: /buy/health/advantEdge
+Schedule a motor self inspection,Motor self inspection,1.0,0.9797477126121521,Motor Self Inspection: /benefits/motor/self-inspection
+Where can I get a motor self inspection?,Motor self inspection,0.9,0.9626604914665222,Motor Self Inspection: /benefits/motor/self-inspection
+Recommend a new hobby,View Vehicle Policies,0.0,0.15436094999313354,Blogs: /blogs
+How do I start a podcast?,View Travel Policies,0.0,0.2851133942604065,Add Policy: /add-policy
+Suggest a Netflix series to watch,View Travel Policies,0.0,0.1046045571565628,No Intent Detected: /
+How do I bake a chocolate cake?,View Travel Policies,0.0,0.1365736424922943,Add Policy: /add-policy
+Give me a random number,View Home Policies,0.0,0.17695307731628418,No Intent Detected: /
+Help me register a policy,Buy Travel insurance,0.1,0.9517934918403625,Add Policy: /add-policy
+Start a policy application,Driving Licence,0.1,0.9091378450393677,Add Policy: /add-policy
+I need to initiate a policy,Motor self inspection,0.1,0.9085944890975952,Add Policy: /add-policy
+Add our company health plan,Add Corporate Health Policy,1.0,0.9639356732368469,Add Corporate Health Policy: /add-policy/health?type=corporate
+Get cheap bike insurance,Buy Bike Insurance,0.9,0.9767871499061584,Buy Bike Insurance: /buy/bike
+Upload vehicle policy and insure my new car,Buy Car Insurance,1.0,0.9579273462295532,Add Vehicle Policy: /add-policy/vehicle
+Attach home insurance and buy Health AdvantEdge,Add Home Policy,1.0,0.8905744552612305,Add Home Policy: /add-policy/home
+Attach home insurance and buy Health AdvantEdge,Buy Health AdvantEdge,1.0,0.8905744552612305,Add Home Policy: /add-policy/home
+Sync travel policy and purchase travel coverage,Add Travel Policy,1.0,0.9140175580978394,Add Travel Policy: /add-policy/travel
+Start my car remotely,Face Scan,0.0,0.3994255065917969,Add Vehicle Policy: /add-policy/vehicle
+What is my battery percentage?,driving score,0.0,0.14481604099273682,No Intent Detected: /
+What’s the best smartphone right now?,driving score,0.0,0.24173982441425323,Buy Health Insurance: /buy/health
+How do I set up a new WiFi router?,driving score,0.0,0.5468792915344238,Add Policy: /add-policy
+What are the benefits of meditation?,blogs,0.0,0.1880510300397873,No Intent Detected: /
+Tell me a fun fact,blogs,0.0,0.16641728579998016,No Intent Detected: /
+Compare Health AdvantEdge,Buy Health AdvantEdge,0.7,0.9174896478652954,Buy Health AdvantEdge: /buy/health/advantEdge
+Compare Health AdvantEdge,Add Health Policy,0.1,0.9174896478652954,Buy Health AdvantEdge: /buy/health/advantEdge
+Active Booster pricing,Buy Active Booster,0.8,0.9077227711677551,Buy Active Booster: /buy/health/active-booster
+I want to add a policy,View Challans,0.1,0.9551198482513428,Add Policy: /add-policy
+I want to add a policy,FAQs,0.0,0.9551198482513428,Add Policy: /add-policy
+I want to add a policy,Face Scan,0.0,0.9551198482513428,Add Policy: /add-policy

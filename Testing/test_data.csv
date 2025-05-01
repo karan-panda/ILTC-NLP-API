@@ -1,0 +1,102 @@
+user_input,user_intent,score
+I want to add a policy,Add Policy,1
+Please add a new policy for me,Add Policy,1
+Help me register a policy,Add Policy,0.95
+Start a policy application,Add Policy,0.9
+Add my insurance policy,Add Policy,0.98
+I need to initiate a policy,Add Policy,0.95
+Can you help me add a policy?,Add Policy,0.95
+Process a new policy for my account,Add Policy,0.9
+I would like to add an insurance policy,Add Policy,0.95
+Register a new policy for me,Add Policy,0.95
+I want to add a health policy,Add Health Policy,0.95
+Please register a health insurance policy,Add Health Policy,0.95
+Help me add a new health policy,Add Health Policy,0.95
+Initiate health coverage policy,Add Health Policy,0.95
+I need to add a corporate health policy,Add Corporate Health Policy,0.95
+Register a health policy for my company,Add Corporate Health Policy,0.95
+Please add corporate health insurance,Add Corporate Health Policy,0.95
+Start a corporate health policy process,Add Corporate Health Policy,0.95
+I want to add a retail health policy,Add Retail Health Policy,0.95
+Help me register a personal health policy,Add Retail Health Policy,0.95
+Add my retail health insurance policy,Add Retail Health Policy,0.95
+Initiate a retail health policy application,Add Retail Health Policy,0.95
+I need to add a vehicle insurance policy,Add Vehicle Policy,0.95
+Register a new vehicle policy,Add Vehicle Policy,0.95
+Help me add car insurance policy,Add Vehicle Policy,0.95
+Initiate a vehicle policy for my car,Add Vehicle Policy,0.95
+I want to add a travel insurance policy,Add Travel Policy,0.95
+Please register a travel policy,Add Travel Policy,0.85
+Help me add travel coverage,Add Travel Policy,0.85
+Initiate a travel insurance policy,Add Travel Policy,0.85
+I want to add a home insurance policy,Add Home Policy,0.85
+Register a home policy for me,Add Home Policy,0.85
+Help me add home coverage,Add Home Policy,0.95
+Initiate home insurance policy,Add Home Policy,0.95
+I want to buy health insurance,Buy Health Insurance,0.95
+Purchase health insurance plan,Buy Health Insurance,0.95
+Help me buy a health insurance policy,Buy Health Insurance,0.95
+Looking to purchase health insurance,Buy Health Insurance,0.95
+I want to buy Elevate insurance,Buy Elevate,0.95
+Purchase Elevate plan,Buy Elevate,0.95
+Help me buy the Elevate package,Buy Elevate,0.95
+I want to buy MaxProtect insurance,Buy MaxProtect,0.95
+Purchase MaxProtect plan,Buy MaxProtect,0.95
+I want to buy Active Booster Combo,Buy Active Booster Combo,0.95
+Purchase the Anime plan,Buy Active Booster Combo,0.1
+Help me get Active Booster Combo insurance,Buy Active Booster Combo,0.9
+Purchase the Health AdvantEdge plan,Buy Health AdvantEdge,0.9
+Help me buy Health AdvantEdge insurance,Buy Health AdvantEdge,0.9
+I want to buy car insurance,Buy Car insurance,0.9
+Purchase a car insurance policy,Buy Car insurance,0.9
+Access ABHA Id,ABHA Id,0.9
+What is my ABHA Id?,ABHA Id,0.9
+I want to track my health,Track Health,0.9
+I want to view my challans,View Challans,0.9
+Access driving licence details,Driving Licence,0.9
+Where is my driving licence?,Driving Licence,0.9
+Check my PUC validity,PUC Validity,0.9
+What is my PUC validity?,PUC Validity,0.9
+I want to use IL DriveSmart,IL DriveSmart,0.9
+Show IL DriveSmart details,IL DriveSmart,0.9
+Link old travel policy and get new travel insurance,Buy Travel Insurance,0.9
+Register health plan and buy Elevate package,Add Health Policy,0.9
+Register health plan and buy Elevate package,Buy Elevate,0.9
+Integrate corporate plan and purchase MaxProtect,Add Corporate Health Policy,0.9
+Integrate corporate plan and purchase MaxProtect,Buy MaxProtect,1
+Add retail policy and buy Active Booster,Add Retail Health Policy,1
+Buy home coverage,Buy Home Insurance,0.9
+Existing health plan help,Add Health Policy,0.6
+MaxProtect pricing,Buy MaxProtect,0.8
+Corporate policy integration,Add Corporate Health Policy,0.7
+Bike insurance options,Buy Bike Insurance,0.8
+Old travel policy help,Add Travel Policy,0.6
+Health AdvantEdge cost,Buy Health AdvantEdge,0.8
+Schedule a motor self inspection,Motor self inspection,1
+Where can I get a motor self inspection?,Motor self inspection,0.9
+Recommend a new hobby,View Vehicle Policies,0
+How do I start a podcast?,View Travel Policies,0
+Suggest a Netflix series to watch,View Travel Policies,0
+How do I bake a chocolate cake?,View Travel Policies,0
+Give me a random number,View Home Policies,0
+Help me register a policy,Buy Travel insurance,0.1
+Start a policy application,Driving Licence,0.1
+I need to initiate a policy,Motor self inspection,0.1
+Add our company health plan,Add Corporate Health Policy,1
+Get cheap bike insurance,Buy Bike Insurance,0.9
+Upload vehicle policy and insure my new car,Buy Car Insurance,1
+Attach home insurance and buy Health AdvantEdge,Add Home Policy,1
+Attach home insurance and buy Health AdvantEdge,Buy Health AdvantEdge,1
+Sync travel policy and purchase travel coverage,Add Travel Policy,1
+Start my car remotely,Face Scan,0
+What is my battery percentage?,driving score,0
+What’s the best smartphone right now?,driving score,0
+How do I set up a new WiFi router?,driving score,0
+What are the benefits of meditation?,blogs,0
+Tell me a fun fact,blogs,0
+Compare Health AdvantEdge,Buy Health AdvantEdge,0.7
+Compare Health AdvantEdge,Add Health Policy,0.1
+Active Booster pricing,Buy Active Booster,0.8
+I want to add a policy,View Challans,0.1
+I want to add a policy,FAQs,0
+I want to add a policy,Face Scan,0
