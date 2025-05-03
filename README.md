@@ -10,14 +10,14 @@ A **Next.js** web application for seamless navigation through an insurance porta
 
 ## **Tech Stack**  
 - **Frontend:** Next.js, React, Bootstrap  
-- **Backend API:** Flask (Python)  
-- **Intent Detection Model:** Hugging Face **Sentence Transformers** (`msmarco-distilbert-base-tas-b`) & (`all-MiniLM-L6-v2`) Model
+- **Backend API:** FastAPI (Python) 🚀  
+- **Intent Detection Model:** Hugging Face **Sentence Transformers** (`msmarco-distilbert-base-tas-b`) & (`all-MiniLM-L6-v2`)  
 - **State Management:** React Hooks (`useState`, `useEffect`, `useRef`)  
 - **Navigation:** `next/router` for dynamic route changes  
 
 ## **How It Works**  
 1. The user enters a **natural language query** in the search bar (e.g., *"I want to buy an insurance policy"*).  
-2. The frontend sends the query to a **Flask API** for processing.  
+2. The frontend sends the query to a **FastAPI backend** for processing.  
 3. The API uses **Hugging Face Sentence Transformers** to extract intent and determine the best matching route.  
 4. The response (e.g., `{ "intent": "Buy Policy", "route": "/buy-policy", "score": 0.90 }`) is sent back to the frontend.  
 5. If a valid route is found, **Next.js automatically redirects** the user using `router.push(res.data.route)`.  
@@ -27,13 +27,8 @@ A **Next.js** web application for seamless navigation through an insurance porta
 ### **Frontend (Next.js)**
 1️⃣ Clone the repository  
 ```bash
-git clone --recurse-submodules https://github.com/karan-panda/nlp-based-smart-navigation
-cd nlp-based-smart-navigation
-```
-
-2️⃣ Install dependencies
-```
-npm install
+git clone --recurse-submodules https://github.com/karan-panda/ILTC-NLP-API
+cd ILTC-NLP-API
 ```
 
 3️⃣ Start the development server
@@ -43,11 +38,11 @@ npm run dev
 
 4️⃣ Ensure the backend API is running for NLP-based navigation.
 
-### **Backend (Flask API with Sentence Transformers)**
+### **Backend (FastAPI with Sentence Transformers)**
 
 1️⃣ Install dependencies
 ```
-pip install flask flask_cors sentence-transformers
+pip install -r requirements.py
 ```
 
 2️⃣ Generate a **Hugging Face API Key**
@@ -58,7 +53,12 @@ To use **Sentence Transformers** from Hugging Face, you need an API key.
   3. Click **New Token**, set **read** permissions, and generate the key.  
   4. Copy the key and paste it in .env or in the .py file for local use.
 
-3️⃣ Run the Flask server
+3️⃣ Run the FastAPI server
 ```
-python apiV2.py
+python -m fastapi run processor.py
 ```
+Then visit:
+```
+http://127.0.0.1:8000/docs
+```
+for interactive API docs powered by Swagger UI or else checkout the NextJs Dummy website to see the API in Action!
